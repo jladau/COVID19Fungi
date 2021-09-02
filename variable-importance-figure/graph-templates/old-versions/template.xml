@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="46" Full="1.12.46"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2021-07-10T18:40:25Z</dc:date>
+      <meta:creation-date>2021-07-09T19:16:24Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">temp.13.csv</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="1920" Height="844"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>temp.13.csv</gnm:Name>
+      <gnm:MaxCol>12</gnm:MaxCol>
+      <gnm:MaxRow>4</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;temp.13.csv&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="5" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="5" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="6" startRow="0" endCol="6" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000000000000000">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="7" startRow="0" endCol="7" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="8" startRow="0" endCol="8" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.00000000000000000">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="9" startRow="0" endCol="9" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000000000000000">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="10" startRow="0" endCol="10" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000000000000000000">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="11" startRow="0" endCol="12" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000000000000000">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="13" startRow="0" endCol="255" endRow="4">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48">
+        <gnm:ColInfo No="1" Unit="108.8"/>
+        <gnm:ColInfo No="2" Unit="114.8" Count="2"/>
+        <gnm:ColInfo No="4" Unit="108.8"/>
+        <gnm:ColInfo No="5" Unit="114.8"/>
+        <gnm:ColInfo No="6" Unit="108.8"/>
+        <gnm:ColInfo No="7" Unit="114.8" Count="2"/>
+        <gnm:ColInfo No="9" Unit="108.8"/>
+        <gnm:ColInfo No="10" Unit="126.8"/>
+        <gnm:ColInfo No="11" Unit="108.8" Count="2"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="12.75">
+        <gnm:RowInfo No="0" Unit="13.5" Count="5"/>
+      </gnm:Rows>
+      <gnm:Selections CursorCol="5" CursorRow="42">
+        <gnm:Selection startCol="5" startRow="42" endCol="5" endRow="42"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="A9" AnchorMode="GNM_SO_ANCHOR_ONE_CELL" ObjectOffset="1 0.529 622 378" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">378</property>
+            <property name="width-pts">622</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="id">1</property>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="major-tick-out">FALSE</property>
+                <property name="major-tick-labeled">FALSE</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 18" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="1" type="GnmGODataScalar">0.42999999999999999</dimension>
+                </data>
+                <GogObject role="Label">
+                  <property name="allow-markup">TRUE</property>
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Correlation (R&lt;sup&gt;2&lt;/sup&gt;)&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogBarColPlot">
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="errors" type="GogErrorBar" error_type="absolute"/>
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="0">
+                      <pattern type="diag" fore="DD:43:1F:FF" back="FF:FF:FF:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$B$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">temp.13.csv!$G$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$B$2</dimension>
+                    <dimension id="2" type="GnmGODataVector">temp.13.csv!$B$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="errors" type="GogErrorBar" error_type="absolute"/>
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="0">
+                      <pattern type="solid" fore="0:0:0:FF" back="BD:D8:ED:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$C$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">temp.13.csv!$G$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$C$2</dimension>
+                    <dimension id="2" type="GnmGODataVector">temp.13.csv!$C$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="errors" type="GogErrorBar" error_type="absolute"/>
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="6B:AE:D6:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">3</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$D$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">temp.13.csv!$G$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$D$2</dimension>
+                    <dimension id="2" type="GnmGODataVector">temp.13.csv!$D$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="errors" type="GogErrorBar" error_type="absolute"/>
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="27:57:A9:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">4</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$E$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">temp.13.csv!$G$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$E$2</dimension>
+                    <dimension id="2" type="GnmGODataVector">temp.13.csv!$E$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="errors" type="GogErrorBar" error_type="absolute"/>
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="DD:43:1F:BB" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">5</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$F$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">temp.13.csv!$G$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$F$2</dimension>
+                    <dimension id="2" type="GnmGODataVector">temp.13.csv!$F$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="85:27:1A:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">6</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$G$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">temp.13.csv!$G$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$G$2</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Legend">
+                <property name="swatch-padding-pts">5.669291338582677</property>
+                <property name="swatch-size-pts">7.086614173228346</property>
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                    <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="0"/>
+                  </fill>
+                  <font auto-color="1" auto-font="0" font="Sans 14" auto-scale="1"/>
+                </property>
+                <property name="id">1</property>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+        <gnm:SheetObjectGraph ObjectBound="H10" AnchorMode="GNM_SO_ANCHOR_ONE_CELL" ObjectOffset="0.647 0.235 535 367" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">367</property>
+            <property name="width-pts">535</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="id">1</property>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="major-tick-out">FALSE</property>
+                <property name="major-tick-labeled">FALSE</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="major-tick-out">FALSE</property>
+                <property name="major-tick-labeled">FALSE</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+              </GogObject>
+              <GogObject role="Plot" type="GogBarColPlot">
+                <property name="horizontal">TRUE</property>
+                <property name="overlap-percentage">100</property>
+                <property name="gap-percentage">320</property>
+                <property name="type">stacked</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="BD:D8:ED:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$I$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$I$2</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="6B:AE:D6:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$J$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$J$2</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="27:57:A9:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">3</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$K$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$K$2</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="DD:43:1F:BB" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">4</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$L$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$L$2</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="85:27:1A:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">5</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">temp.13.csv!$M$1</dimension>
+                    <dimension id="1" type="GnmGODataVector">temp.13.csv!$M$2</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Legend">
+                <property name="swatch-padding-pts">5.669291338582677</property>
+                <property name="swatch-size-pts">7.086614173228346</property>
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                    <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                  </fill>
+                  <font auto-color="1" auto-font="0" font="Sans 14" auto-scale="1"/>
+                </property>
+                <property name="id">1</property>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="60">CLASSIFICATION</gnm:Cell>
+        <gnm:Cell Row="0" Col="1" ValueType="60">microbe</gnm:Cell>
+        <gnm:Cell Row="0" Col="2" ValueType="60">housing</gnm:Cell>
+        <gnm:Cell Row="0" Col="3" ValueType="60">demographic</gnm:Cell>
+        <gnm:Cell Row="0" Col="4" ValueType="60">covid-policy</gnm:Cell>
+        <gnm:Cell Row="0" Col="5" ValueType="60">climate-except-soil-ph</gnm:Cell>
+        <gnm:Cell Row="0" Col="6" ValueType="60">soil-ph</gnm:Cell>
+        <gnm:Cell Row="0" Col="7" ValueType="60">CLASSIFICATION</gnm:Cell>
+        <gnm:Cell Row="0" Col="8" ValueType="60">housing</gnm:Cell>
+        <gnm:Cell Row="0" Col="9" ValueType="60">demographic</gnm:Cell>
+        <gnm:Cell Row="0" Col="10" ValueType="60">covid-policy</gnm:Cell>
+        <gnm:Cell Row="0" Col="11" ValueType="60">climate-except-soil-ph</gnm:Cell>
+        <gnm:Cell Row="0" Col="12" ValueType="60">soil-ph</gnm:Cell>
+        <gnm:Cell Row="1" Col="0" ValueType="60">R2_MEAN</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="40">0.34002130486292198</gnm:Cell>
+        <gnm:Cell Row="1" Col="2" ValueType="40">0.28283885650499402</gnm:Cell>
+        <gnm:Cell Row="1" Col="3" ValueType="40">0.157067119345737</gnm:Cell>
+        <gnm:Cell Row="1" Col="4" ValueType="40">0.15017732863130101</gnm:Cell>
+        <gnm:Cell Row="1" Col="5" ValueType="40">0.128309472652472</gnm:Cell>
+        <gnm:Cell Row="1" Col="6" ValueType="40">0.083118866763148697</gnm:Cell>
+        <gnm:Cell Row="1" Col="7" ValueType="60">RELATIVE_IMPORTANCE</gnm:Cell>
+        <gnm:Cell Row="1" Col="8" ValueType="40">0.13644944132475925</gnm:Cell>
+        <gnm:Cell Row="1" Col="9" ValueType="40">0.15749610039501349</gnm:Cell>
+        <gnm:Cell Row="1" Col="10" ValueType="40">0.0032484675223200224</gnm:Cell>
+        <gnm:Cell Row="1" Col="11" ValueType="40">0.2879453483253237</gnm:Cell>
+        <gnm:Cell Row="1" Col="12" ValueType="40">0.41486064243258342</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="60">R2_STERR</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="40">0.0221297441132066</gnm:Cell>
+        <gnm:Cell Row="2" Col="3" ValueType="40">0.0200610799180834</gnm:Cell>
+        <gnm:Cell Row="2" Col="4" ValueType="40">0.038529965069732497</gnm:Cell>
+        <gnm:Cell Row="2" Col="5" ValueType="40">0.010011288597376201</gnm:Cell>
+        <gnm:Cell Row="2" Col="6" ValueType="40">0.0147213249817283</gnm:Cell>
+        <gnm:Cell Row="3" Col="0" ValueType="60">R2_SHUFFLED_MEAN</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="40">0.046133127529988903</gnm:Cell>
+        <gnm:Cell Row="3" Col="2" ValueType="40">0.035728775759708599</gnm:Cell>
+        <gnm:Cell Row="3" Col="3" ValueType="40">0.0179200474605892</gnm:Cell>
+        <gnm:Cell Row="3" Col="4" ValueType="40">0.021649504599149501</gnm:Cell>
+        <gnm:Cell Row="3" Col="5" ValueType="40">0.017629213936306499</gnm:Cell>
+        <gnm:Cell Row="3" Col="6" ValueType="40">0.0185021906028742</gnm:Cell>
+        <gnm:Cell Row="4" Col="0" ValueType="60">R2_SHUFFLED_STERR</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="40">0.0054874927310316797</gnm:Cell>
+        <gnm:Cell Row="4" Col="3" ValueType="40">0.0026517413108077701</gnm:Cell>
+        <gnm:Cell Row="4" Col="4" ValueType="40">0.0103195910600872</gnm:Cell>
+        <gnm:Cell Row="4" Col="5" ValueType="40">0.0022938871877830301</gnm:Cell>
+        <gnm:Cell Row="4" Col="6" ValueType="40">0.0105182847645089</gnm:Cell>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="0"/>
+</gnm:Workbook>

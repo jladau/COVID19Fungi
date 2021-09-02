@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="528mm"
+   height="1740.7054mm"
+   viewBox="0 0 528 1740.7054"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3861">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.25785369"
+         id="rect3863"
+         width="520.9624"
+         height="230.57686"
+         x="-519.07312"
+         y="-130.83362" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3865">
+      <rect
+         y="-142.06757"
+         x="98.651802"
+         height="230.04678"
+         width="520.9624"
+         id="rect3867"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.25755712" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3869">
+      <rect
+         y="239.79045"
+         x="53.861328"
+         height="229.51666"
+         width="520.9624"
+         id="rect3871"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.25726017" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3882">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.25577039"
+         id="rect3884"
+         width="520.9624"
+         height="226.86612"
+         x="-554.94464"
+         y="226.83524" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3886">
+      <rect
+         y="560.60461"
+         x="-539.1593"
+         height="224.74568"
+         width="520.9624"
+         id="rect3888"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.2545723" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3903">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26396731"
+         id="rect3905"
+         width="528.2002"
+         height="229.51234"
+         x="-535.17133"
+         y="-513.2644" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.087023831"
+     inkscape:cx="1317.3864"
+     inkscape:cy="3682.6316"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-124.07315,817.86516)">
+    <image
+       sodipodi:absref="/home/jladau/Desktop/r-nought-estimation/results/2020_03_15-2020_04_29.png"
+       xlink:href="r-nought-estimation/results/2020_03_15-2020_04_29.png"
+       transform="translate(650.38864,-338.78961)"
+       clip-path="url(#clipPath3861)"
+       width="508"
+       height="278.34167"
+       preserveAspectRatio="none"
+       id="image18"
+       x="-516.31549"
+       y="-169.95181" />
+    <image
+       sodipodi:absref="/home/jladau/Desktop/r-nought-estimation/results/2020_04_30-2020_06_14.png"
+       xlink:href="r-nought-estimation/results/2020_04_30-2020_06_14.png"
+       transform="translate(32.77553,-38.590019)"
+       clip-path="url(#clipPath3865)"
+       width="508"
+       height="278.34167"
+       preserveAspectRatio="none"
+       id="image3732"
+       x="101.29762"
+       y="-180.83751" />
+    <image
+       sodipodi:absref="/home/jladau/Desktop/r-nought-estimation/results/2020_06_15-2020_07_30.png"
+       xlink:href="r-nought-estimation/results/2020_06_15-2020_07_30.png"
+       transform="translate(687.43027,-117.20196)"
+       clip-path="url(#clipPath3882)"
+       width="508"
+       height="278.34167"
+       preserveAspectRatio="none"
+       id="image3743"
+       x="-553.35712"
+       y="188.06726" />
+    <image
+       sodipodi:absref="/home/jladau/Desktop/r-nought-estimation/results/2020_07_31-2020_09_14.png"
+       xlink:href="r-nought-estimation/results/2020_07_31-2020_09_14.png"
+       transform="translate(76.620779,157.21811)"
+       clip-path="url(#clipPath3869)"
+       width="508"
+       height="278.34167"
+       preserveAspectRatio="none"
+       id="image3754"
+       x="57.452374"
+       y="200.16251" />
+    <image
+       sodipodi:absref="/home/jladau/Desktop/r-nought-estimation/results/2020_09_15-2020_10_30.png"
+       xlink:href="r-nought-estimation/results/2020_09_15-2020_10_30.png"
+       transform="translate(661.72788,127.48999)"
+       clip-path="url(#clipPath3886)"
+       width="508"
+       height="278.34167"
+       preserveAspectRatio="none"
+       id="image3765"
+       x="-527.65472"
+       y="520.68634" />
+    <image
+       sodipodi:absref="/home/jladau/Desktop/r-nought-estimation/results/overall.png"
+       xlink:href="r-nought-estimation/results/overall.png"
+       transform="translate(663.73056,-244.52713)"
+       clip-path="url(#clipPath3903)"
+       width="508"
+       height="278.34167"
+       preserveAspectRatio="none"
+       id="image3898"
+       x="-529.65741"
+       y="-552.51868" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="348.61761"
+       y="-775.77063"
+       id="text3909"><tspan
+         sodipodi:role="line"
+         id="tspan3907"
+         x="348.61761"
+         y="-775.77063"
+         style="font-size:28.22222137px;stroke-width:0.26458332">Overall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.3063"
+       y="-484.47986"
+       id="text3909-3"><tspan
+         sodipodi:role="line"
+         id="tspan3907-5"
+         x="215.3063"
+         y="-484.47986"
+         style="font-size:28.22222137px;stroke-width:0.26458332">2020-03-15 -- 2020-04-29</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.10649"
+       y="-192.87888"
+       id="text3909-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan3907-5-2"
+         x="215.10649"
+         y="-192.87888"
+         style="font-size:28.22222137px;stroke-width:0.26458332">2020-04-30 -- 2020-06-14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.25119"
+       y="98.722107"
+       id="text3909-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan3907-5-1"
+         x="215.25119"
+         y="98.722107"
+         style="font-size:28.22222137px;stroke-width:0.26458332">2020-06-15 -- 2020-07-30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.10649"
+       y="390.32306"
+       id="text3909-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan3907-5-7"
+         x="215.10649"
+         y="390.32306"
+         style="font-size:28.22222137px;stroke-width:0.26458332">2020-07-31 -- 2020-09-14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.25119"
+       y="681.92407"
+       id="text3909-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan3907-5-9"
+         x="215.25119"
+         y="681.92407"
+         style="font-size:28.22222137px;stroke-width:0.26458332">2020-09-15 -- 2020-10-30</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="46" Full="1.12.46"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2021-06-12T01:02:59Z</dc:date>
+      <meta:creation-date>2021-05-20T01:44:17Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">data</gnm:SheetName>
+    <gnm:SheetName gnm:SheetType="object" gnm:Cols="256" gnm:Rows="65536">graph</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="1920" Height="844"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>data</gnm:Name>
+      <gnm:MaxCol>2</gnm:MaxCol>
+      <gnm:MaxRow>475</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;data&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="0" endRow="475">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="476" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="1" startRow="0" endCol="255" endRow="475">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48">
+        <gnm:ColInfo No="1" Unit="108.8"/>
+        <gnm:ColInfo No="2" Unit="114.8"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="12.75">
+        <gnm:RowInfo No="0" Unit="13.5" Count="476"/>
+      </gnm:Rows>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="2" endRow="65535"/>
+      </gnm:Selections>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="60">THRESHOLD</gnm:Cell>
+        <gnm:Cell Row="0" Col="1" ValueType="60">PREDICTOR</gnm:Cell>
+        <gnm:Cell Row="0" Col="2" ValueType="60">RESPONSE</gnm:Cell>
+        <gnm:Cell Row="1" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="40">0.12012468898758225</gnm:Cell>
+        <gnm:Cell Row="1" Col="2" ValueType="40">0.0087211231544278307</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="40">0.1255905486494871</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="40">0.0057541732187505442</gnm:Cell>
+        <gnm:Cell Row="3" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="40">0.13007581558180165</gnm:Cell>
+        <gnm:Cell Row="3" Col="2" ValueType="40">0.0057541732187505442</gnm:Cell>
+        <gnm:Cell Row="4" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="40">0.1341168374485717</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="40">0.0057541732187505442</gnm:Cell>
+        <gnm:Cell Row="5" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="40">0.13804840664371781</gnm:Cell>
+        <gnm:Cell Row="5" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="6" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="6" Col="1" ValueType="40">0.14210237717365584</gnm:Cell>
+        <gnm:Cell Row="6" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="7" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="7" Col="1" ValueType="40">0.14595515159337422</gnm:Cell>
+        <gnm:Cell Row="7" Col="2" ValueType="40">0.0059229118126588242</gnm:Cell>
+        <gnm:Cell Row="8" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="8" Col="1" ValueType="40">0.14985504403637076</gnm:Cell>
+        <gnm:Cell Row="8" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="9" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="9" Col="1" ValueType="40">0.15387771797766175</gnm:Cell>
+        <gnm:Cell Row="9" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="10" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ValueType="40">0.15763607513229261</gnm:Cell>
+        <gnm:Cell Row="10" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="11" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ValueType="40">0.16138262320145111</gnm:Cell>
+        <gnm:Cell Row="11" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="12" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ValueType="40">0.16507040033433085</gnm:Cell>
+        <gnm:Cell Row="12" Col="2" ValueType="40">0.0044954874910244887</gnm:Cell>
+        <gnm:Cell Row="13" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="13" Col="1" ValueType="40">0.16895654918837272</gnm:Cell>
+        <gnm:Cell Row="13" Col="2" ValueType="40">0.0044954874910244887</gnm:Cell>
+        <gnm:Cell Row="14" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ValueType="40">0.17270095973154581</gnm:Cell>
+        <gnm:Cell Row="14" Col="2" ValueType="40">0.0044954874910244887</gnm:Cell>
+        <gnm:Cell Row="15" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="15" Col="1" ValueType="40">0.17652398343012851</gnm:Cell>
+        <gnm:Cell Row="15" Col="2" ValueType="40">0.0040298059003719871</gnm:Cell>
+        <gnm:Cell Row="16" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="16" Col="1" ValueType="40">0.18057657603542279</gnm:Cell>
+        <gnm:Cell Row="16" Col="2" ValueType="40">0.0044954874910244887</gnm:Cell>
+        <gnm:Cell Row="17" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="17" Col="1" ValueType="40">0.1849644096564276</gnm:Cell>
+        <gnm:Cell Row="17" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="18" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="18" Col="1" ValueType="40">0.18937458211088032</gnm:Cell>
+        <gnm:Cell Row="18" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="19" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="19" Col="1" ValueType="40">0.19332716936499367</gnm:Cell>
+        <gnm:Cell Row="19" Col="2" ValueType="40">0.0051379794530245588</gnm:Cell>
+        <gnm:Cell Row="20" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="20" Col="1" ValueType="40">0.19695389520419132</gnm:Cell>
+        <gnm:Cell Row="20" Col="2" ValueType="40">0.0052484692926756706</gnm:Cell>
+        <gnm:Cell Row="21" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="21" Col="1" ValueType="40">0.20002184847626561</gnm:Cell>
+        <gnm:Cell Row="21" Col="2" ValueType="40">0.0052484692926756706</gnm:Cell>
+        <gnm:Cell Row="22" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="22" Col="1" ValueType="40">0.20295159731249396</gnm:Cell>
+        <gnm:Cell Row="22" Col="2" ValueType="40">0.0052484692926756706</gnm:Cell>
+        <gnm:Cell Row="23" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="23" Col="1" ValueType="40">0.20604717270665121</gnm:Cell>
+        <gnm:Cell Row="23" Col="2" ValueType="40">0.0052484692926756706</gnm:Cell>
+        <gnm:Cell Row="24" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="24" Col="1" ValueType="40">0.20945888396166201</gnm:Cell>
+        <gnm:Cell Row="24" Col="2" ValueType="40">0.0048269570099778248</gnm:Cell>
+        <gnm:Cell Row="25" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="25" Col="1" ValueType="40">0.21279769941226162</gnm:Cell>
+        <gnm:Cell Row="25" Col="2" ValueType="40">0.0046837165593504957</gnm:Cell>
+        <gnm:Cell Row="26" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="26" Col="1" ValueType="40">0.21596559660470677</gnm:Cell>
+        <gnm:Cell Row="26" Col="2" ValueType="40">0.0047092079507393206</gnm:Cell>
+        <gnm:Cell Row="27" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="27" Col="1" ValueType="40">0.21910477009818535</gnm:Cell>
+        <gnm:Cell Row="27" Col="2" ValueType="40">0.0041631331243652753</gnm:Cell>
+        <gnm:Cell Row="28" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="28" Col="1" ValueType="40">0.22208808998588081</gnm:Cell>
+        <gnm:Cell Row="28" Col="2" ValueType="40">0.0041631331243652753</gnm:Cell>
+        <gnm:Cell Row="29" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="29" Col="1" ValueType="40">0.2250613777792006</gnm:Cell>
+        <gnm:Cell Row="29" Col="2" ValueType="40">0.0041631331243652753</gnm:Cell>
+        <gnm:Cell Row="30" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="30" Col="1" ValueType="40">0.22804858223780528</gnm:Cell>
+        <gnm:Cell Row="30" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="31" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="31" Col="1" ValueType="40">0.23099190806210962</gnm:Cell>
+        <gnm:Cell Row="31" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="32" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="32" Col="1" ValueType="40">0.23408938107082405</gnm:Cell>
+        <gnm:Cell Row="32" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="33" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="33" Col="1" ValueType="40">0.23701151005610449</gnm:Cell>
+        <gnm:Cell Row="33" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="34" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="34" Col="1" ValueType="40">0.23980566252080565</gnm:Cell>
+        <gnm:Cell Row="34" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="35" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="35" Col="1" ValueType="40">0.2426003792252906</gnm:Cell>
+        <gnm:Cell Row="35" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="36" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="36" Col="1" ValueType="40">0.24522196227314136</gnm:Cell>
+        <gnm:Cell Row="36" Col="2" ValueType="40">0.0040710748803281004</gnm:Cell>
+        <gnm:Cell Row="37" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="37" Col="1" ValueType="40">0.24737039908204556</gnm:Cell>
+        <gnm:Cell Row="37" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="38" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="38" Col="1" ValueType="40">0.24934410824506945</gnm:Cell>
+        <gnm:Cell Row="38" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="39" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="39" Col="1" ValueType="40">0.25133346991985395</gnm:Cell>
+        <gnm:Cell Row="39" Col="2" ValueType="40">0.0039575682139083293</gnm:Cell>
+        <gnm:Cell Row="40" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="40" Col="1" ValueType="40">0.25344833901839803</gnm:Cell>
+        <gnm:Cell Row="40" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="41" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="41" Col="1" ValueType="40">0.25559469784923849</gnm:Cell>
+        <gnm:Cell Row="41" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="42" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="42" Col="1" ValueType="40">0.25766948575135729</gnm:Cell>
+        <gnm:Cell Row="42" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="43" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="43" Col="1" ValueType="40">0.25955507280510681</gnm:Cell>
+        <gnm:Cell Row="43" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="44" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="44" Col="1" ValueType="40">0.26116051032323451</gnm:Cell>
+        <gnm:Cell Row="44" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="45" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="45" Col="1" ValueType="40">0.26287539491294837</gnm:Cell>
+        <gnm:Cell Row="45" Col="2" ValueType="40">0.0037225337936380746</gnm:Cell>
+        <gnm:Cell Row="46" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="46" Col="1" ValueType="40">0.2645139959812598</gnm:Cell>
+        <gnm:Cell Row="46" Col="2" ValueType="40">0.0036599700904913655</gnm:Cell>
+        <gnm:Cell Row="47" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="47" Col="1" ValueType="40">0.26635418231125307</gnm:Cell>
+        <gnm:Cell Row="47" Col="2" ValueType="40">0.0036599700904913655</gnm:Cell>
+        <gnm:Cell Row="48" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="48" Col="1" ValueType="40">0.26818308046589523</gnm:Cell>
+        <gnm:Cell Row="48" Col="2" ValueType="40">0.0036640779100793387</gnm:Cell>
+        <gnm:Cell Row="49" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="49" Col="1" ValueType="40">0.26990203000891488</gnm:Cell>
+        <gnm:Cell Row="49" Col="2" ValueType="40">0.0039140995985706382</gnm:Cell>
+        <gnm:Cell Row="50" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="50" Col="1" ValueType="40">0.27158280188393691</gnm:Cell>
+        <gnm:Cell Row="50" Col="2" ValueType="40">0.0040209670578205195</gnm:Cell>
+        <gnm:Cell Row="51" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="51" Col="1" ValueType="40">0.27333475377597299</gnm:Cell>
+        <gnm:Cell Row="51" Col="2" ValueType="40">0.0040209670578205195</gnm:Cell>
+        <gnm:Cell Row="52" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="52" Col="1" ValueType="40">0.2749840089438842</gnm:Cell>
+        <gnm:Cell Row="52" Col="2" ValueType="40">0.0040209670578205195</gnm:Cell>
+        <gnm:Cell Row="53" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="53" Col="1" ValueType="40">0.27668062336439003</gnm:Cell>
+        <gnm:Cell Row="53" Col="2" ValueType="40">0.0040209670578205195</gnm:Cell>
+        <gnm:Cell Row="54" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="54" Col="1" ValueType="40">0.27847423120447762</gnm:Cell>
+        <gnm:Cell Row="54" Col="2" ValueType="40">0.0040209670578205195</gnm:Cell>
+        <gnm:Cell Row="55" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="55" Col="1" ValueType="40">0.28020302126980318</gnm:Cell>
+        <gnm:Cell Row="55" Col="2" ValueType="40">0.0040209670578205195</gnm:Cell>
+        <gnm:Cell Row="56" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="56" Col="1" ValueType="40">0.28177869858938809</gnm:Cell>
+        <gnm:Cell Row="56" Col="2" ValueType="40">0.0039140995985706382</gnm:Cell>
+        <gnm:Cell Row="57" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="57" Col="1" ValueType="40">0.28335067796279301</gnm:Cell>
+        <gnm:Cell Row="57" Col="2" ValueType="40">0.0037837162518043629</gnm:Cell>
+        <gnm:Cell Row="58" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="58" Col="1" ValueType="40">0.2849390000935309</gnm:Cell>
+        <gnm:Cell Row="58" Col="2" ValueType="40">0.0037837162518043629</gnm:Cell>
+        <gnm:Cell Row="59" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="59" Col="1" ValueType="40">0.28641771894860996</gnm:Cell>
+        <gnm:Cell Row="59" Col="2" ValueType="40">0.0037837162518043629</gnm:Cell>
+        <gnm:Cell Row="60" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="60" Col="1" ValueType="40">0.28792422064682394</gnm:Cell>
+        <gnm:Cell Row="60" Col="2" ValueType="40">0.0037837162518043629</gnm:Cell>
+        <gnm:Cell Row="61" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="61" Col="1" ValueType="40">0.28938920386161632</gnm:Cell>
+        <gnm:Cell Row="61" Col="2" ValueType="40">0.0038286833249751235</gnm:Cell>
+        <gnm:Cell Row="62" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="62" Col="1" ValueType="40">0.29086302537374897</gnm:Cell>
+        <gnm:Cell Row="62" Col="2" ValueType="40">0.0038286833249751235</gnm:Cell>
+        <gnm:Cell Row="63" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="63" Col="1" ValueType="40">0.29231518674049128</gnm:Cell>
+        <gnm:Cell Row="63" Col="2" ValueType="40">0.0038286833249751235</gnm:Cell>
+        <gnm:Cell Row="64" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="64" Col="1" ValueType="40">0.29392667460758087</gnm:Cell>
+        <gnm:Cell Row="64" Col="2" ValueType="40">0.0038286833249751235</gnm:Cell>
+        <gnm:Cell Row="65" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="65" Col="1" ValueType="40">0.29550078804649338</gnm:Cell>
+        <gnm:Cell Row="65" Col="2" ValueType="40">0.0038286833249751235</gnm:Cell>
+        <gnm:Cell Row="66" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="66" Col="1" ValueType="40">0.29707887472207622</gnm:Cell>
+        <gnm:Cell Row="66" Col="2" ValueType="40">0.004210694928338715</gnm:Cell>
+        <gnm:Cell Row="67" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="67" Col="1" ValueType="40">0.29842603894010955</gnm:Cell>
+        <gnm:Cell Row="67" Col="2" ValueType="40">0.0042978550647191733</gnm:Cell>
+        <gnm:Cell Row="68" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="68" Col="1" ValueType="40">0.29982979707406271</gnm:Cell>
+        <gnm:Cell Row="68" Col="2" ValueType="40">0.0042978550647191733</gnm:Cell>
+        <gnm:Cell Row="69" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="69" Col="1" ValueType="40">0.30129993104958247</gnm:Cell>
+        <gnm:Cell Row="69" Col="2" ValueType="40">0.0042978550647191733</gnm:Cell>
+        <gnm:Cell Row="70" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="70" Col="1" ValueType="40">0.30276606174288712</gnm:Cell>
+        <gnm:Cell Row="70" Col="2" ValueType="40">0.00406187981083101</gnm:Cell>
+        <gnm:Cell Row="71" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="71" Col="1" ValueType="40">0.30423375091107796</gnm:Cell>
+        <gnm:Cell Row="71" Col="2" ValueType="40">0.0042936704788301763</gnm:Cell>
+        <gnm:Cell Row="72" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="72" Col="1" ValueType="40">0.30566573858275525</gnm:Cell>
+        <gnm:Cell Row="72" Col="2" ValueType="40">0.0042936704788301763</gnm:Cell>
+        <gnm:Cell Row="73" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="73" Col="1" ValueType="40">0.30713601657369299</gnm:Cell>
+        <gnm:Cell Row="73" Col="2" ValueType="40">0.0042936704788301763</gnm:Cell>
+        <gnm:Cell Row="74" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="74" Col="1" ValueType="40">0.30853391457447621</gnm:Cell>
+        <gnm:Cell Row="74" Col="2" ValueType="40">0.0042936704788301763</gnm:Cell>
+        <gnm:Cell Row="75" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="75" Col="1" ValueType="40">0.30986990643313633</gnm:Cell>
+        <gnm:Cell Row="75" Col="2" ValueType="40">0.0042936704788301763</gnm:Cell>
+        <gnm:Cell Row="76" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="76" Col="1" ValueType="40">0.31121723697125597</gnm:Cell>
+        <gnm:Cell Row="76" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="77" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="77" Col="1" ValueType="40">0.31266065186515346</gnm:Cell>
+        <gnm:Cell Row="77" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="78" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="78" Col="1" ValueType="40">0.31399626931517621</gnm:Cell>
+        <gnm:Cell Row="78" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="79" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="79" Col="1" ValueType="40">0.31530528832024879</gnm:Cell>
+        <gnm:Cell Row="79" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="80" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="80" Col="1" ValueType="40">0.31644798012332453</gnm:Cell>
+        <gnm:Cell Row="80" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="81" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="81" Col="1" ValueType="40">0.31770427441803517</gnm:Cell>
+        <gnm:Cell Row="81" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="82" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="82" Col="1" ValueType="40">0.31897421005049903</gnm:Cell>
+        <gnm:Cell Row="82" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="83" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="83" Col="1" ValueType="40">0.32035941863545292</gnm:Cell>
+        <gnm:Cell Row="83" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="84" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="84" Col="1" ValueType="40">0.32161864472786594</gnm:Cell>
+        <gnm:Cell Row="84" Col="2" ValueType="40">0.0045155206614631328</gnm:Cell>
+        <gnm:Cell Row="85" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="85" Col="1" ValueType="40">0.32295300040977548</gnm:Cell>
+        <gnm:Cell Row="85" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="86" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="86" Col="1" ValueType="40">0.32468053548462583</gnm:Cell>
+        <gnm:Cell Row="86" Col="2" ValueType="40">0.0048469071574086583</gnm:Cell>
+        <gnm:Cell Row="87" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="87" Col="1" ValueType="40">0.32686282221128732</gnm:Cell>
+        <gnm:Cell Row="87" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="88" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="88" Col="1" ValueType="40">0.32910544784280593</gnm:Cell>
+        <gnm:Cell Row="88" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="89" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="89" Col="1" ValueType="40">0.33135726752532274</gnm:Cell>
+        <gnm:Cell Row="89" Col="2" ValueType="40">0.0041047966682138315</gnm:Cell>
+        <gnm:Cell Row="90" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="90" Col="1" ValueType="40">0.33365727777728099</gnm:Cell>
+        <gnm:Cell Row="90" Col="2" ValueType="40">0.0043783075623131506</gnm:Cell>
+        <gnm:Cell Row="91" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="91" Col="1" ValueType="40">0.33592174510192063</gnm:Cell>
+        <gnm:Cell Row="91" Col="2" ValueType="40">0.0044460185785768864</gnm:Cell>
+        <gnm:Cell Row="92" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="92" Col="1" ValueType="40">0.33817496084755205</gnm:Cell>
+        <gnm:Cell Row="92" Col="2" ValueType="40">0.0044460185785768864</gnm:Cell>
+        <gnm:Cell Row="93" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="93" Col="1" ValueType="40">0.34040667138779063</gnm:Cell>
+        <gnm:Cell Row="93" Col="2" ValueType="40">0.0044460185785768864</gnm:Cell>
+        <gnm:Cell Row="94" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="94" Col="1" ValueType="40">0.34261563253262234</gnm:Cell>
+        <gnm:Cell Row="94" Col="2" ValueType="40">0.0044460185785768864</gnm:Cell>
+        <gnm:Cell Row="95" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="95" Col="1" ValueType="40">0.3449790417913649</gnm:Cell>
+        <gnm:Cell Row="95" Col="2" ValueType="40">0.0051404163623941347</gnm:Cell>
+        <gnm:Cell Row="96" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="96" Col="1" ValueType="40">0.34747622046714799</gnm:Cell>
+        <gnm:Cell Row="96" Col="2" ValueType="40">0.0063271409835024264</gnm:Cell>
+        <gnm:Cell Row="97" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="97" Col="1" ValueType="40">0.34987649931687337</gnm:Cell>
+        <gnm:Cell Row="97" Col="2" ValueType="40">0.0063641110256331575</gnm:Cell>
+        <gnm:Cell Row="98" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="98" Col="1" ValueType="40">0.35255421595228459</gnm:Cell>
+        <gnm:Cell Row="98" Col="2" ValueType="40">0.0063641110256331575</gnm:Cell>
+        <gnm:Cell Row="99" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="99" Col="1" ValueType="40">0.35531315242203404</gnm:Cell>
+        <gnm:Cell Row="99" Col="2" ValueType="40">0.0064757415295626734</gnm:Cell>
+        <gnm:Cell Row="100" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="100" Col="1" ValueType="40">0.3580507704268327</gnm:Cell>
+        <gnm:Cell Row="100" Col="2" ValueType="40">0.0064757415295626734</gnm:Cell>
+        <gnm:Cell Row="101" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="101" Col="1" ValueType="40">0.3606436246881714</gnm:Cell>
+        <gnm:Cell Row="101" Col="2" ValueType="40">0.0064757415295626734</gnm:Cell>
+        <gnm:Cell Row="102" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="102" Col="1" ValueType="40">0.36323185181623563</gnm:Cell>
+        <gnm:Cell Row="102" Col="2" ValueType="40">0.0064757415295626734</gnm:Cell>
+        <gnm:Cell Row="103" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="103" Col="1" ValueType="40">0.36571963853024786</gnm:Cell>
+        <gnm:Cell Row="103" Col="2" ValueType="40">0.0064757415295626734</gnm:Cell>
+        <gnm:Cell Row="104" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="104" Col="1" ValueType="40">0.3681933131817533</gnm:Cell>
+        <gnm:Cell Row="104" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="105" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="105" Col="1" ValueType="40">0.37054401737941201</gnm:Cell>
+        <gnm:Cell Row="105" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="106" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="106" Col="1" ValueType="40">0.37256489708398499</gnm:Cell>
+        <gnm:Cell Row="106" Col="2" ValueType="40">0.0053234824371622275</gnm:Cell>
+        <gnm:Cell Row="107" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="107" Col="1" ValueType="40">0.3741254283829657</gnm:Cell>
+        <gnm:Cell Row="107" Col="2" ValueType="40">0.0053234824371622275</gnm:Cell>
+        <gnm:Cell Row="108" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="108" Col="1" ValueType="40">0.37560644407680821</gnm:Cell>
+        <gnm:Cell Row="108" Col="2" ValueType="40">0.0053234824371622275</gnm:Cell>
+        <gnm:Cell Row="109" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="109" Col="1" ValueType="40">0.37702377065926918</gnm:Cell>
+        <gnm:Cell Row="109" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="110" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="110" Col="1" ValueType="40">0.37846908216406261</gnm:Cell>
+        <gnm:Cell Row="110" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="111" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="111" Col="1" ValueType="40">0.37987620641731701</gnm:Cell>
+        <gnm:Cell Row="111" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="112" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="112" Col="1" ValueType="40">0.3813652722585637</gnm:Cell>
+        <gnm:Cell Row="112" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="113" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="113" Col="1" ValueType="40">0.38278687888482982</gnm:Cell>
+        <gnm:Cell Row="113" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="114" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="114" Col="1" ValueType="40">0.38426638600739704</gnm:Cell>
+        <gnm:Cell Row="114" Col="2" ValueType="40">0.005478338944077705</gnm:Cell>
+        <gnm:Cell Row="115" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="115" Col="1" ValueType="40">0.38560836565124051</gnm:Cell>
+        <gnm:Cell Row="115" Col="2" ValueType="40">0.0054632498919740466</gnm:Cell>
+        <gnm:Cell Row="116" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="116" Col="1" ValueType="40">0.38695187875351922</gnm:Cell>
+        <gnm:Cell Row="116" Col="2" ValueType="40">0.0052782152808512539</gnm:Cell>
+        <gnm:Cell Row="117" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="117" Col="1" ValueType="40">0.38839295017877107</gnm:Cell>
+        <gnm:Cell Row="117" Col="2" ValueType="40">0.0051084552712408349</gnm:Cell>
+        <gnm:Cell Row="118" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="118" Col="1" ValueType="40">0.38964725262846661</gnm:Cell>
+        <gnm:Cell Row="118" Col="2" ValueType="40">0.0052782152808512539</gnm:Cell>
+        <gnm:Cell Row="119" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="119" Col="1" ValueType="40">0.39089673262751673</gnm:Cell>
+        <gnm:Cell Row="119" Col="2" ValueType="40">0.0051084552712408349</gnm:Cell>
+        <gnm:Cell Row="120" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="120" Col="1" ValueType="40">0.39219267943753294</gnm:Cell>
+        <gnm:Cell Row="120" Col="2" ValueType="40">0.0051084552712408349</gnm:Cell>
+        <gnm:Cell Row="121" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="121" Col="1" ValueType="40">0.39366577383355922</gnm:Cell>
+        <gnm:Cell Row="121" Col="2" ValueType="40">0.0052350314210704314</gnm:Cell>
+        <gnm:Cell Row="122" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="122" Col="1" ValueType="40">0.39510468140155008</gnm:Cell>
+        <gnm:Cell Row="122" Col="2" ValueType="40">0.0051518433967188883</gnm:Cell>
+        <gnm:Cell Row="123" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="123" Col="1" ValueType="40">0.39654184600219294</gnm:Cell>
+        <gnm:Cell Row="123" Col="2" ValueType="40">0.0051518433967188883</gnm:Cell>
+        <gnm:Cell Row="124" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="124" Col="1" ValueType="40">0.39791934482220309</gnm:Cell>
+        <gnm:Cell Row="124" Col="2" ValueType="40">0.0051518433967188883</gnm:Cell>
+        <gnm:Cell Row="125" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="125" Col="1" ValueType="40">0.39928846200835649</gnm:Cell>
+        <gnm:Cell Row="125" Col="2" ValueType="40">0.0052926779893439383</gnm:Cell>
+        <gnm:Cell Row="126" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="126" Col="1" ValueType="40">0.40067356708515584</gnm:Cell>
+        <gnm:Cell Row="126" Col="2" ValueType="40">0.0052926779893439383</gnm:Cell>
+        <gnm:Cell Row="127" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="127" Col="1" ValueType="40">0.40222563772246256</gnm:Cell>
+        <gnm:Cell Row="127" Col="2" ValueType="40">0.0052926779893439383</gnm:Cell>
+        <gnm:Cell Row="128" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="128" Col="1" ValueType="40">0.40373216182945171</gnm:Cell>
+        <gnm:Cell Row="128" Col="2" ValueType="40">0.0052926779893439383</gnm:Cell>
+        <gnm:Cell Row="129" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="129" Col="1" ValueType="40">0.4052184709512141</gnm:Cell>
+        <gnm:Cell Row="129" Col="2" ValueType="40">0.0051518433967188883</gnm:Cell>
+        <gnm:Cell Row="130" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="130" Col="1" ValueType="40">0.40665689827067819</gnm:Cell>
+        <gnm:Cell Row="130" Col="2" ValueType="40">0.0051518433967188883</gnm:Cell>
+        <gnm:Cell Row="131" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="131" Col="1" ValueType="40">0.40815818346340987</gnm:Cell>
+        <gnm:Cell Row="131" Col="2" ValueType="40">0.0052926779893439383</gnm:Cell>
+        <gnm:Cell Row="132" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="132" Col="1" ValueType="40">0.40960336757609239</gnm:Cell>
+        <gnm:Cell Row="132" Col="2" ValueType="40">0.005865388918152809</gnm:Cell>
+        <gnm:Cell Row="133" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="133" Col="1" ValueType="40">0.41117555303425873</gnm:Cell>
+        <gnm:Cell Row="133" Col="2" ValueType="40">0.005865388918152809</gnm:Cell>
+        <gnm:Cell Row="134" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="134" Col="1" ValueType="40">0.41269966584091122</gnm:Cell>
+        <gnm:Cell Row="134" Col="2" ValueType="40">0.005865388918152809</gnm:Cell>
+        <gnm:Cell Row="135" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="135" Col="1" ValueType="40">0.41424967585389449</gnm:Cell>
+        <gnm:Cell Row="135" Col="2" ValueType="40">0.0058509942982258676</gnm:Cell>
+        <gnm:Cell Row="136" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="136" Col="1" ValueType="40">0.41568427197506896</gnm:Cell>
+        <gnm:Cell Row="136" Col="2" ValueType="40">0.0058509942982258676</gnm:Cell>
+        <gnm:Cell Row="137" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="137" Col="1" ValueType="40">0.41708333038157486</gnm:Cell>
+        <gnm:Cell Row="137" Col="2" ValueType="40">0.0058509942982258676</gnm:Cell>
+        <gnm:Cell Row="138" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="138" Col="1" ValueType="40">0.41856132116882111</gnm:Cell>
+        <gnm:Cell Row="138" Col="2" ValueType="40">0.0051458188645793915</gnm:Cell>
+        <gnm:Cell Row="139" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="139" Col="1" ValueType="40">0.4200266006368733</gnm:Cell>
+        <gnm:Cell Row="139" Col="2" ValueType="40">0.0052564900289613992</gnm:Cell>
+        <gnm:Cell Row="140" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="140" Col="1" ValueType="40">0.42147062645924532</gnm:Cell>
+        <gnm:Cell Row="140" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="141" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="141" Col="1" ValueType="40">0.42288562989645256</gnm:Cell>
+        <gnm:Cell Row="141" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="142" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="142" Col="1" ValueType="40">0.42429429311840294</gnm:Cell>
+        <gnm:Cell Row="142" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="143" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="143" Col="1" ValueType="40">0.42579710042544727</gnm:Cell>
+        <gnm:Cell Row="143" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="144" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="144" Col="1" ValueType="40">0.42757950848134973</gnm:Cell>
+        <gnm:Cell Row="144" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="145" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="145" Col="1" ValueType="40">0.42932501778900384</gnm:Cell>
+        <gnm:Cell Row="145" Col="2" ValueType="40">0.0048945660663775046</gnm:Cell>
+        <gnm:Cell Row="146" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="146" Col="1" ValueType="40">0.43099659051368472</gnm:Cell>
+        <gnm:Cell Row="146" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="147" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="147" Col="1" ValueType="40">0.43271828405035412</gnm:Cell>
+        <gnm:Cell Row="147" Col="2" ValueType="40">0.0060244038860583814</gnm:Cell>
+        <gnm:Cell Row="148" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="148" Col="1" ValueType="40">0.43466275150237754</gnm:Cell>
+        <gnm:Cell Row="148" Col="2" ValueType="40">0.0060244038860583814</gnm:Cell>
+        <gnm:Cell Row="149" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="149" Col="1" ValueType="40">0.43674835903741399</gnm:Cell>
+        <gnm:Cell Row="149" Col="2" ValueType="40">0.0060244038860583814</gnm:Cell>
+        <gnm:Cell Row="150" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="150" Col="1" ValueType="40">0.43891705448916768</gnm:Cell>
+        <gnm:Cell Row="150" Col="2" ValueType="40">0.0057720548595267497</gnm:Cell>
+        <gnm:Cell Row="151" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="151" Col="1" ValueType="40">0.44099377450124322</gnm:Cell>
+        <gnm:Cell Row="151" Col="2" ValueType="40">0.0048945660663775046</gnm:Cell>
+        <gnm:Cell Row="152" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="152" Col="1" ValueType="40">0.44308895306718615</gnm:Cell>
+        <gnm:Cell Row="152" Col="2" ValueType="40">0.0037321088431107037</gnm:Cell>
+        <gnm:Cell Row="153" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="153" Col="1" ValueType="40">0.44505764858320396</gnm:Cell>
+        <gnm:Cell Row="153" Col="2" ValueType="40">0.0037321088431107037</gnm:Cell>
+        <gnm:Cell Row="154" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="154" Col="1" ValueType="40">0.44706878262916555</gnm:Cell>
+        <gnm:Cell Row="154" Col="2" ValueType="40">0.0037321088431107037</gnm:Cell>
+        <gnm:Cell Row="155" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="155" Col="1" ValueType="40">0.44934279191762744</gnm:Cell>
+        <gnm:Cell Row="155" Col="2" ValueType="40">0.0037321088431107037</gnm:Cell>
+        <gnm:Cell Row="156" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="156" Col="1" ValueType="40">0.45179398555884076</gnm:Cell>
+        <gnm:Cell Row="156" Col="2" ValueType="40">0.0046534737926020552</gnm:Cell>
+        <gnm:Cell Row="157" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="157" Col="1" ValueType="40">0.45446804594784618</gnm:Cell>
+        <gnm:Cell Row="157" Col="2" ValueType="40">0.0046534737926020552</gnm:Cell>
+        <gnm:Cell Row="158" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="158" Col="1" ValueType="40">0.45694573023457119</gnm:Cell>
+        <gnm:Cell Row="158" Col="2" ValueType="40">0.0046534737926020552</gnm:Cell>
+        <gnm:Cell Row="159" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="159" Col="1" ValueType="40">0.45941116499214607</gnm:Cell>
+        <gnm:Cell Row="159" Col="2" ValueType="40">0.0035098060036527329</gnm:Cell>
+        <gnm:Cell Row="160" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="160" Col="1" ValueType="40">0.46186861345959784</gnm:Cell>
+        <gnm:Cell Row="160" Col="2" ValueType="40">0.003411303142431999</gnm:Cell>
+        <gnm:Cell Row="161" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="161" Col="1" ValueType="40">0.46458107004782734</gnm:Cell>
+        <gnm:Cell Row="161" Col="2" ValueType="40">0.0032320329600977874</gnm:Cell>
+        <gnm:Cell Row="162" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="162" Col="1" ValueType="40">0.46731699051484848</gnm:Cell>
+        <gnm:Cell Row="162" Col="2" ValueType="40">0.003411303142431999</gnm:Cell>
+        <gnm:Cell Row="163" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="163" Col="1" ValueType="40">0.46995523787608062</gnm:Cell>
+        <gnm:Cell Row="163" Col="2" ValueType="40">0.0045227020926570053</gnm:Cell>
+        <gnm:Cell Row="164" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="164" Col="1" ValueType="40">0.47247428254534085</gnm:Cell>
+        <gnm:Cell Row="164" Col="2" ValueType="40">0.0045227020926570053</gnm:Cell>
+        <gnm:Cell Row="165" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="165" Col="1" ValueType="40">0.47498467402459238</gnm:Cell>
+        <gnm:Cell Row="165" Col="2" ValueType="40">0.005010705578236253</gnm:Cell>
+        <gnm:Cell Row="166" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="166" Col="1" ValueType="40">0.47761169309204965</gnm:Cell>
+        <gnm:Cell Row="166" Col="2" ValueType="40">0.005010705578236253</gnm:Cell>
+        <gnm:Cell Row="167" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="167" Col="1" ValueType="40">0.48011461039722264</gnm:Cell>
+        <gnm:Cell Row="167" Col="2" ValueType="40">0.005010705578236253</gnm:Cell>
+        <gnm:Cell Row="168" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="168" Col="1" ValueType="40">0.48266608161545033</gnm:Cell>
+        <gnm:Cell Row="168" Col="2" ValueType="40">0.0060694214080397784</gnm:Cell>
+        <gnm:Cell Row="169" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="169" Col="1" ValueType="40">0.4851010570775946</gnm:Cell>
+        <gnm:Cell Row="169" Col="2" ValueType="40">0.0060694214080397784</gnm:Cell>
+        <gnm:Cell Row="170" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="170" Col="1" ValueType="40">0.48748860664890403</gnm:Cell>
+        <gnm:Cell Row="170" Col="2" ValueType="40">0.0060694214080397784</gnm:Cell>
+        <gnm:Cell Row="171" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="171" Col="1" ValueType="40">0.49004129300504246</gnm:Cell>
+        <gnm:Cell Row="171" Col="2" ValueType="40">0.0060694214080397784</gnm:Cell>
+        <gnm:Cell Row="172" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="172" Col="1" ValueType="40">0.49257346019739978</gnm:Cell>
+        <gnm:Cell Row="172" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="173" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="173" Col="1" ValueType="40">0.49512284218731972</gnm:Cell>
+        <gnm:Cell Row="173" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="174" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="174" Col="1" ValueType="40">0.49766990127886057</gnm:Cell>
+        <gnm:Cell Row="174" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="175" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="175" Col="1" ValueType="40">0.49988952603055548</gnm:Cell>
+        <gnm:Cell Row="175" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="176" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="176" Col="1" ValueType="40">0.50200404194507087</gnm:Cell>
+        <gnm:Cell Row="176" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="177" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="177" Col="1" ValueType="40">0.50390787533579717</gnm:Cell>
+        <gnm:Cell Row="177" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="178" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="178" Col="1" ValueType="40">0.50597286486740822</gnm:Cell>
+        <gnm:Cell Row="178" Col="2" ValueType="40">0.0061044023990257639</gnm:Cell>
+        <gnm:Cell Row="179" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="179" Col="1" ValueType="40">0.50802441531286568</gnm:Cell>
+        <gnm:Cell Row="179" Col="2" ValueType="40">0.0063144195724575873</gnm:Cell>
+        <gnm:Cell Row="180" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="180" Col="1" ValueType="40">0.51010704356321335</gnm:Cell>
+        <gnm:Cell Row="180" Col="2" ValueType="40">0.0063144195724575873</gnm:Cell>
+        <gnm:Cell Row="181" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="181" Col="1" ValueType="40">0.51180151223830728</gnm:Cell>
+        <gnm:Cell Row="181" Col="2" ValueType="40">0.0063144195724575873</gnm:Cell>
+        <gnm:Cell Row="182" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="182" Col="1" ValueType="40">0.51362379339345732</gnm:Cell>
+        <gnm:Cell Row="182" Col="2" ValueType="40">0.005800260362788752</gnm:Cell>
+        <gnm:Cell Row="183" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="183" Col="1" ValueType="40">0.51552319202106323</gnm:Cell>
+        <gnm:Cell Row="183" Col="2" ValueType="40">0.005800260362788752</gnm:Cell>
+        <gnm:Cell Row="184" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="184" Col="1" ValueType="40">0.5172889117630507</gnm:Cell>
+        <gnm:Cell Row="184" Col="2" ValueType="40">0.0063144195724575873</gnm:Cell>
+        <gnm:Cell Row="185" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="185" Col="1" ValueType="40">0.51905242039561661</gnm:Cell>
+        <gnm:Cell Row="185" Col="2" ValueType="40">0.005800260362788752</gnm:Cell>
+        <gnm:Cell Row="186" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="186" Col="1" ValueType="40">0.52078909047314426</gnm:Cell>
+        <gnm:Cell Row="186" Col="2" ValueType="40">0.0051227990842045859</gnm:Cell>
+        <gnm:Cell Row="187" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="187" Col="1" ValueType="40">0.52252661007250389</gnm:Cell>
+        <gnm:Cell Row="187" Col="2" ValueType="40">0.0051227990842045859</gnm:Cell>
+        <gnm:Cell Row="188" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="188" Col="1" ValueType="40">0.52404498713233694</gnm:Cell>
+        <gnm:Cell Row="188" Col="2" ValueType="40">0.0049331755306039581</gnm:Cell>
+        <gnm:Cell Row="189" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="189" Col="1" ValueType="40">0.52558044003219628</gnm:Cell>
+        <gnm:Cell Row="189" Col="2" ValueType="40">0.0049331755306039581</gnm:Cell>
+        <gnm:Cell Row="190" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="190" Col="1" ValueType="40">0.52705973714589904</gnm:Cell>
+        <gnm:Cell Row="190" Col="2" ValueType="40">0.0049331755306039581</gnm:Cell>
+        <gnm:Cell Row="191" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="191" Col="1" ValueType="40">0.52838154389342384</gnm:Cell>
+        <gnm:Cell Row="191" Col="2" ValueType="40">0.0051227990842045859</gnm:Cell>
+        <gnm:Cell Row="192" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="192" Col="1" ValueType="40">0.52993623523691935</gnm:Cell>
+        <gnm:Cell Row="192" Col="2" ValueType="40">0.0049298761565010028</gnm:Cell>
+        <gnm:Cell Row="193" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="193" Col="1" ValueType="40">0.53148711445111185</gnm:Cell>
+        <gnm:Cell Row="193" Col="2" ValueType="40">0.0051617256748302661</gnm:Cell>
+        <gnm:Cell Row="194" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="194" Col="1" ValueType="40">0.53306052316495411</gnm:Cell>
+        <gnm:Cell Row="194" Col="2" ValueType="40">0.0051617256748302661</gnm:Cell>
+        <gnm:Cell Row="195" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="195" Col="1" ValueType="40">0.5347005409259189</gnm:Cell>
+        <gnm:Cell Row="195" Col="2" ValueType="40">0.0051617256748302661</gnm:Cell>
+        <gnm:Cell Row="196" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="196" Col="1" ValueType="40">0.53626327701956389</gnm:Cell>
+        <gnm:Cell Row="196" Col="2" ValueType="40">0.0051617256748302661</gnm:Cell>
+        <gnm:Cell Row="197" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="197" Col="1" ValueType="40">0.53776108711596815</gnm:Cell>
+        <gnm:Cell Row="197" Col="2" ValueType="40">0.0050218258616363297</gnm:Cell>
+        <gnm:Cell Row="198" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="198" Col="1" ValueType="40">0.53920380816488156</gnm:Cell>
+        <gnm:Cell Row="198" Col="2" ValueType="40">0.0050218258616363297</gnm:Cell>
+        <gnm:Cell Row="199" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="199" Col="1" ValueType="40">0.5412346280348358</gnm:Cell>
+        <gnm:Cell Row="199" Col="2" ValueType="40">0.0043454102346811348</gnm:Cell>
+        <gnm:Cell Row="200" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="200" Col="1" ValueType="40">0.54326432304350969</gnm:Cell>
+        <gnm:Cell Row="200" Col="2" ValueType="40">0.0044502834263176099</gnm:Cell>
+        <gnm:Cell Row="201" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="201" Col="1" ValueType="40">0.54531781120746214</gnm:Cell>
+        <gnm:Cell Row="201" Col="2" ValueType="40">0.0044502834263176099</gnm:Cell>
+        <gnm:Cell Row="202" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="202" Col="1" ValueType="40">0.54732438833619024</gnm:Cell>
+        <gnm:Cell Row="202" Col="2" ValueType="40">0.0044502834263176099</gnm:Cell>
+        <gnm:Cell Row="203" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="203" Col="1" ValueType="40">0.54923836160279249</gnm:Cell>
+        <gnm:Cell Row="203" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="204" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="204" Col="1" ValueType="40">0.55124973976167446</gnm:Cell>
+        <gnm:Cell Row="204" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="205" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="205" Col="1" ValueType="40">0.55325622635022165</gnm:Cell>
+        <gnm:Cell Row="205" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="206" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="206" Col="1" ValueType="40">0.55519032418101144</gnm:Cell>
+        <gnm:Cell Row="206" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="207" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="207" Col="1" ValueType="40">0.5571035854409121</gnm:Cell>
+        <gnm:Cell Row="207" Col="2" ValueType="40">0.0043623089230313203</gnm:Cell>
+        <gnm:Cell Row="208" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="208" Col="1" ValueType="40">0.55924892516276248</gnm:Cell>
+        <gnm:Cell Row="208" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="209" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="209" Col="1" ValueType="40">0.56148140497492804</gnm:Cell>
+        <gnm:Cell Row="209" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="210" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="210" Col="1" ValueType="40">0.56382479898578342</gnm:Cell>
+        <gnm:Cell Row="210" Col="2" ValueType="40">0.0050315968182212817</gnm:Cell>
+        <gnm:Cell Row="211" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="211" Col="1" ValueType="40">0.5663844848493973</gnm:Cell>
+        <gnm:Cell Row="211" Col="2" ValueType="40">0.0043623089230313203</gnm:Cell>
+        <gnm:Cell Row="212" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="212" Col="1" ValueType="40">0.56871855002547855</gnm:Cell>
+        <gnm:Cell Row="212" Col="2" ValueType="40">0.0043623089230313203</gnm:Cell>
+        <gnm:Cell Row="213" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="213" Col="1" ValueType="40">0.5710227485943361</gnm:Cell>
+        <gnm:Cell Row="213" Col="2" ValueType="40">0.0039879261597218323</gnm:Cell>
+        <gnm:Cell Row="214" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="214" Col="1" ValueType="40">0.57344283445598143</gnm:Cell>
+        <gnm:Cell Row="214" Col="2" ValueType="40">0.0039879261597218323</gnm:Cell>
+        <gnm:Cell Row="215" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="215" Col="1" ValueType="40">0.57579735629731565</gnm:Cell>
+        <gnm:Cell Row="215" Col="2" ValueType="40">0.0043623089230313203</gnm:Cell>
+        <gnm:Cell Row="216" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="216" Col="1" ValueType="40">0.57818026638253139</gnm:Cell>
+        <gnm:Cell Row="216" Col="2" ValueType="40">0.0043623089230313203</gnm:Cell>
+        <gnm:Cell Row="217" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="217" Col="1" ValueType="40">0.58061212015490216</gnm:Cell>
+        <gnm:Cell Row="217" Col="2" ValueType="40">0.0045497991319260371</gnm:Cell>
+        <gnm:Cell Row="218" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="218" Col="1" ValueType="40">0.58293837288802142</gnm:Cell>
+        <gnm:Cell Row="218" Col="2" ValueType="40">0.0045497991319260371</gnm:Cell>
+        <gnm:Cell Row="219" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="219" Col="1" ValueType="40">0.58468030901719914</gnm:Cell>
+        <gnm:Cell Row="219" Col="2" ValueType="40">0.0045497991319260371</gnm:Cell>
+        <gnm:Cell Row="220" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="220" Col="1" ValueType="40">0.58632362435705698</gnm:Cell>
+        <gnm:Cell Row="220" Col="2" ValueType="40">0.0044520536720547956</gnm:Cell>
+        <gnm:Cell Row="221" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="221" Col="1" ValueType="40">0.58798986203019132</gnm:Cell>
+        <gnm:Cell Row="221" Col="2" ValueType="40">0.005562955665981425</gnm:Cell>
+        <gnm:Cell Row="222" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="222" Col="1" ValueType="40">0.58975473183134186</gnm:Cell>
+        <gnm:Cell Row="222" Col="2" ValueType="40">0.005562955665981425</gnm:Cell>
+        <gnm:Cell Row="223" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="223" Col="1" ValueType="40">0.59167619698657059</gnm:Cell>
+        <gnm:Cell Row="223" Col="2" ValueType="40">0.0044881660757870824</gnm:Cell>
+        <gnm:Cell Row="224" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="224" Col="1" ValueType="40">0.59351799647911652</gnm:Cell>
+        <gnm:Cell Row="224" Col="2" ValueType="40">0.0041774097546144577</gnm:Cell>
+        <gnm:Cell Row="225" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="225" Col="1" ValueType="40">0.59544735221065226</gnm:Cell>
+        <gnm:Cell Row="225" Col="2" ValueType="40">0.004077578760603634</gnm:Cell>
+        <gnm:Cell Row="226" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="226" Col="1" ValueType="40">0.59748668469511634</gnm:Cell>
+        <gnm:Cell Row="226" Col="2" ValueType="40">0.0044881660757870824</gnm:Cell>
+        <gnm:Cell Row="227" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="227" Col="1" ValueType="40">0.59953306447223675</gnm:Cell>
+        <gnm:Cell Row="227" Col="2" ValueType="40">0.0054638845439347397</gnm:Cell>
+        <gnm:Cell Row="228" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="228" Col="1" ValueType="40">0.60158355222332105</gnm:Cell>
+        <gnm:Cell Row="228" Col="2" ValueType="40">0.0044881660757870824</gnm:Cell>
+        <gnm:Cell Row="229" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="229" Col="1" ValueType="40">0.60367565745251783</gnm:Cell>
+        <gnm:Cell Row="229" Col="2" ValueType="40">0.0044881660757870824</gnm:Cell>
+        <gnm:Cell Row="230" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="230" Col="1" ValueType="40">0.60600637766881349</gnm:Cell>
+        <gnm:Cell Row="230" Col="2" ValueType="40">0.0044929741434550398</gnm:Cell>
+        <gnm:Cell Row="231" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="231" Col="1" ValueType="40">0.60816224621341441</gnm:Cell>
+        <gnm:Cell Row="231" Col="2" ValueType="40">0.0046121536840205007</gnm:Cell>
+        <gnm:Cell Row="232" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="232" Col="1" ValueType="40">0.61058264619604297</gnm:Cell>
+        <gnm:Cell Row="232" Col="2" ValueType="40">0.0046121536840205007</gnm:Cell>
+        <gnm:Cell Row="233" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="233" Col="1" ValueType="40">0.61299984795189366</gnm:Cell>
+        <gnm:Cell Row="233" Col="2" ValueType="40">0.0054746977558525079</gnm:Cell>
+        <gnm:Cell Row="234" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="234" Col="1" ValueType="40">0.61525004514905768</gnm:Cell>
+        <gnm:Cell Row="234" Col="2" ValueType="40">0.0054746977558525079</gnm:Cell>
+        <gnm:Cell Row="235" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="235" Col="1" ValueType="40">0.61769147263424373</gnm:Cell>
+        <gnm:Cell Row="235" Col="2" ValueType="40">0.0054746977558525079</gnm:Cell>
+        <gnm:Cell Row="236" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="236" Col="1" ValueType="40">0.62010492434072495</gnm:Cell>
+        <gnm:Cell Row="236" Col="2" ValueType="40">0.0054746977558525079</gnm:Cell>
+        <gnm:Cell Row="237" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="237" Col="1" ValueType="40">0.62257584408015298</gnm:Cell>
+        <gnm:Cell Row="237" Col="2" ValueType="40">0.0054746977558525079</gnm:Cell>
+        <gnm:Cell Row="238" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="238" Col="1" ValueType="40">0.625226032243548</gnm:Cell>
+        <gnm:Cell Row="238" Col="2" ValueType="40">0.0054746977558525079</gnm:Cell>
+        <gnm:Cell Row="239" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="239" Col="1" ValueType="40">0.62792145583651326</gnm:Cell>
+        <gnm:Cell Row="239" Col="2" ValueType="40">0.0056394426952822126</gnm:Cell>
+        <gnm:Cell Row="240" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="240" Col="1" ValueType="40">0.63081212204363191</gnm:Cell>
+        <gnm:Cell Row="240" Col="2" ValueType="40">0.0056394426952822126</gnm:Cell>
+        <gnm:Cell Row="241" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="241" Col="1" ValueType="40">0.63375605919565614</gnm:Cell>
+        <gnm:Cell Row="241" Col="2" ValueType="40">0.0051172017142273821</gnm:Cell>
+        <gnm:Cell Row="242" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="242" Col="1" ValueType="40">0.63663874667456877</gnm:Cell>
+        <gnm:Cell Row="242" Col="2" ValueType="40">0.0056394426952822126</gnm:Cell>
+        <gnm:Cell Row="243" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="243" Col="1" ValueType="40">0.63937850528886087</gnm:Cell>
+        <gnm:Cell Row="243" Col="2" ValueType="40">0.0056394426952822126</gnm:Cell>
+        <gnm:Cell Row="244" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="244" Col="1" ValueType="40">0.64224956890067808</gnm:Cell>
+        <gnm:Cell Row="244" Col="2" ValueType="40">0.0056394426952822126</gnm:Cell>
+        <gnm:Cell Row="245" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="245" Col="1" ValueType="40">0.64504058037800927</gnm:Cell>
+        <gnm:Cell Row="245" Col="2" ValueType="40">0.0070464930322667145</gnm:Cell>
+        <gnm:Cell Row="246" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="246" Col="1" ValueType="40">0.64770274677995432</gnm:Cell>
+        <gnm:Cell Row="246" Col="2" ValueType="40">0.0056394426952822126</gnm:Cell>
+        <gnm:Cell Row="247" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="247" Col="1" ValueType="40">0.65050680199970579</gnm:Cell>
+        <gnm:Cell Row="247" Col="2" ValueType="40">0.0051172017142273821</gnm:Cell>
+        <gnm:Cell Row="248" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="248" Col="1" ValueType="40">0.65311704155067496</gnm:Cell>
+        <gnm:Cell Row="248" Col="2" ValueType="40">0.0069273276850583387</gnm:Cell>
+        <gnm:Cell Row="249" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="249" Col="1" ValueType="40">0.65555637259956567</gnm:Cell>
+        <gnm:Cell Row="249" Col="2" ValueType="40">0.0069273276850583387</gnm:Cell>
+        <gnm:Cell Row="250" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="250" Col="1" ValueType="40">0.65762746281286133</gnm:Cell>
+        <gnm:Cell Row="250" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="251" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="251" Col="1" ValueType="40">0.65969775416408871</gnm:Cell>
+        <gnm:Cell Row="251" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="252" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="252" Col="1" ValueType="40">0.66163374469298075</gnm:Cell>
+        <gnm:Cell Row="252" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="253" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="253" Col="1" ValueType="40">0.66357331753144055</gnm:Cell>
+        <gnm:Cell Row="253" Col="2" ValueType="40">0.006431625214818347</gnm:Cell>
+        <gnm:Cell Row="254" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="254" Col="1" ValueType="40">0.66567243652802</gnm:Cell>
+        <gnm:Cell Row="254" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="255" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="255" Col="1" ValueType="40">0.66758604775608565</gnm:Cell>
+        <gnm:Cell Row="255" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="256" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="256" Col="1" ValueType="40">0.66956439747335317</gnm:Cell>
+        <gnm:Cell Row="256" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="257" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="257" Col="1" ValueType="40">0.67145493613366702</gnm:Cell>
+        <gnm:Cell Row="257" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="258" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="258" Col="1" ValueType="40">0.67317894263595535</gnm:Cell>
+        <gnm:Cell Row="258" Col="2" ValueType="40">0.0072476600119834892</gnm:Cell>
+        <gnm:Cell Row="259" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="259" Col="1" ValueType="40">0.6748323242897164</gnm:Cell>
+        <gnm:Cell Row="259" Col="2" ValueType="40">0.0074935182109585859</gnm:Cell>
+        <gnm:Cell Row="260" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="260" Col="1" ValueType="40">0.67643360730033986</gnm:Cell>
+        <gnm:Cell Row="260" Col="2" ValueType="40">0.0074935182109585859</gnm:Cell>
+        <gnm:Cell Row="261" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="261" Col="1" ValueType="40">0.67841680581928709</gnm:Cell>
+        <gnm:Cell Row="261" Col="2" ValueType="40">0.0074935182109585859</gnm:Cell>
+        <gnm:Cell Row="262" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="262" Col="1" ValueType="40">0.6803556463689564</gnm:Cell>
+        <gnm:Cell Row="262" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="263" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="263" Col="1" ValueType="40">0.68236668397398603</gnm:Cell>
+        <gnm:Cell Row="263" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="264" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="264" Col="1" ValueType="40">0.68436148450025036</gnm:Cell>
+        <gnm:Cell Row="264" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="265" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="265" Col="1" ValueType="40">0.68635211235744009</gnm:Cell>
+        <gnm:Cell Row="265" Col="2" ValueType="40">0.006814372245788354</gnm:Cell>
+        <gnm:Cell Row="266" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="266" Col="1" ValueType="40">0.68832383952342657</gnm:Cell>
+        <gnm:Cell Row="266" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="267" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="267" Col="1" ValueType="40">0.69031938481480715</gnm:Cell>
+        <gnm:Cell Row="267" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="268" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="268" Col="1" ValueType="40">0.69229426336027777</gnm:Cell>
+        <gnm:Cell Row="268" Col="2" ValueType="40">0.006814372245788354</gnm:Cell>
+        <gnm:Cell Row="269" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="269" Col="1" ValueType="40">0.69428396302345763</gnm:Cell>
+        <gnm:Cell Row="269" Col="2" ValueType="40">0.006814372245788354</gnm:Cell>
+        <gnm:Cell Row="270" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="270" Col="1" ValueType="40">0.69643614125336184</gnm:Cell>
+        <gnm:Cell Row="270" Col="2" ValueType="40">0.0066827214992490136</gnm:Cell>
+        <gnm:Cell Row="271" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="271" Col="1" ValueType="40">0.69864861314827797</gnm:Cell>
+        <gnm:Cell Row="271" Col="2" ValueType="40">0.006505930203957358</gnm:Cell>
+        <gnm:Cell Row="272" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="272" Col="1" ValueType="40">0.70069105110629559</gnm:Cell>
+        <gnm:Cell Row="272" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="273" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="273" Col="1" ValueType="40">0.70271792933211208</gnm:Cell>
+        <gnm:Cell Row="273" Col="2" ValueType="40">0.0087497128560780815</gnm:Cell>
+        <gnm:Cell Row="274" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="274" Col="1" ValueType="40">0.70456093078221771</gnm:Cell>
+        <gnm:Cell Row="274" Col="2" ValueType="40">0.0073490889555602075</gnm:Cell>
+        <gnm:Cell Row="275" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="275" Col="1" ValueType="40">0.70640656682977954</gnm:Cell>
+        <gnm:Cell Row="275" Col="2" ValueType="40">0.0091135562665401165</gnm:Cell>
+        <gnm:Cell Row="276" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="276" Col="1" ValueType="40">0.70833551821151486</gnm:Cell>
+        <gnm:Cell Row="276" Col="2" ValueType="40">0.0092881800913986491</gnm:Cell>
+        <gnm:Cell Row="277" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="277" Col="1" ValueType="40">0.71034846283601238</gnm:Cell>
+        <gnm:Cell Row="277" Col="2" ValueType="40">0.0092881800913986491</gnm:Cell>
+        <gnm:Cell Row="278" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="278" Col="1" ValueType="40">0.71243573403640093</gnm:Cell>
+        <gnm:Cell Row="278" Col="2" ValueType="40">0.0092881800913986491</gnm:Cell>
+        <gnm:Cell Row="279" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="279" Col="1" ValueType="40">0.714512540010527</gnm:Cell>
+        <gnm:Cell Row="279" Col="2" ValueType="40">0.007872960430135802</gnm:Cell>
+        <gnm:Cell Row="280" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="280" Col="1" ValueType="40">0.71661999325615189</gnm:Cell>
+        <gnm:Cell Row="280" Col="2" ValueType="40">0.007872960430135802</gnm:Cell>
+        <gnm:Cell Row="281" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="281" Col="1" ValueType="40">0.71842368188897354</gnm:Cell>
+        <gnm:Cell Row="281" Col="2" ValueType="40">0.0078539359164786875</gnm:Cell>
+        <gnm:Cell Row="282" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="282" Col="1" ValueType="40">0.72014806529926367</gnm:Cell>
+        <gnm:Cell Row="282" Col="2" ValueType="40">0.0078539359164786875</gnm:Cell>
+        <gnm:Cell Row="283" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="283" Col="1" ValueType="40">0.72183460197764648</gnm:Cell>
+        <gnm:Cell Row="283" Col="2" ValueType="40">0.0078539359164786875</gnm:Cell>
+        <gnm:Cell Row="284" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="284" Col="1" ValueType="40">0.72337933077513816</gnm:Cell>
+        <gnm:Cell Row="284" Col="2" ValueType="40">0.0078539359164786875</gnm:Cell>
+        <gnm:Cell Row="285" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="285" Col="1" ValueType="40">0.72498626440290015</gnm:Cell>
+        <gnm:Cell Row="285" Col="2" ValueType="40">0.0078785269222156878</gnm:Cell>
+        <gnm:Cell Row="286" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="286" Col="1" ValueType="40">0.72682512666437538</gnm:Cell>
+        <gnm:Cell Row="286" Col="2" ValueType="40">0.0068957459698477854</gnm:Cell>
+        <gnm:Cell Row="287" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="287" Col="1" ValueType="40">0.72841499320650349</gnm:Cell>
+        <gnm:Cell Row="287" Col="2" ValueType="40">0.0068957459698477854</gnm:Cell>
+        <gnm:Cell Row="288" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="288" Col="1" ValueType="40">0.73019338834843406</gnm:Cell>
+        <gnm:Cell Row="288" Col="2" ValueType="40">0.0068957459698477854</gnm:Cell>
+        <gnm:Cell Row="289" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="289" Col="1" ValueType="40">0.73200362438955247</gnm:Cell>
+        <gnm:Cell Row="289" Col="2" ValueType="40">0.0068957459698477854</gnm:Cell>
+        <gnm:Cell Row="290" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="290" Col="1" ValueType="40">0.73366248145647561</gnm:Cell>
+        <gnm:Cell Row="290" Col="2" ValueType="40">0.0068957459698477854</gnm:Cell>
+        <gnm:Cell Row="291" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="291" Col="1" ValueType="40">0.73533407256468641</gnm:Cell>
+        <gnm:Cell Row="291" Col="2" ValueType="40">0.0068957459698477854</gnm:Cell>
+        <gnm:Cell Row="292" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="292" Col="1" ValueType="40">0.73701275291100576</gnm:Cell>
+        <gnm:Cell Row="292" Col="2" ValueType="40">0.0066809665104685364</gnm:Cell>
+        <gnm:Cell Row="293" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="293" Col="1" ValueType="40">0.73893846303570432</gnm:Cell>
+        <gnm:Cell Row="293" Col="2" ValueType="40">0.0062149692138368968</gnm:Cell>
+        <gnm:Cell Row="294" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="294" Col="1" ValueType="40">0.74093404646474459</gnm:Cell>
+        <gnm:Cell Row="294" Col="2" ValueType="40">0.0066809665104685364</gnm:Cell>
+        <gnm:Cell Row="295" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="295" Col="1" ValueType="40">0.74293296532319852</gnm:Cell>
+        <gnm:Cell Row="295" Col="2" ValueType="40">0.0064704729869855008</gnm:Cell>
+        <gnm:Cell Row="296" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="296" Col="1" ValueType="40">0.74476107669315428</gnm:Cell>
+        <gnm:Cell Row="296" Col="2" ValueType="40">0.0062149692138368968</gnm:Cell>
+        <gnm:Cell Row="297" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="297" Col="1" ValueType="40">0.74649432591012554</gnm:Cell>
+        <gnm:Cell Row="297" Col="2" ValueType="40">0.0058968485405061343</gnm:Cell>
+        <gnm:Cell Row="298" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="298" Col="1" ValueType="40">0.74840606064811421</gnm:Cell>
+        <gnm:Cell Row="298" Col="2" ValueType="40">0.0058968485405061343</gnm:Cell>
+        <gnm:Cell Row="299" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="299" Col="1" ValueType="40">0.75033918987830617</gnm:Cell>
+        <gnm:Cell Row="299" Col="2" ValueType="40">0.0058968485405061343</gnm:Cell>
+        <gnm:Cell Row="300" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="300" Col="1" ValueType="40">0.75219872071472715</gnm:Cell>
+        <gnm:Cell Row="300" Col="2" ValueType="40">0.0058968485405061343</gnm:Cell>
+        <gnm:Cell Row="301" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="301" Col="1" ValueType="40">0.75394567513768551</gnm:Cell>
+        <gnm:Cell Row="301" Col="2" ValueType="40">0.0051161231909778769</gnm:Cell>
+        <gnm:Cell Row="302" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="302" Col="1" ValueType="40">0.75596912987840414</gnm:Cell>
+        <gnm:Cell Row="302" Col="2" ValueType="40">0.0051161231909778769</gnm:Cell>
+        <gnm:Cell Row="303" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="303" Col="1" ValueType="40">0.7580444071110205</gnm:Cell>
+        <gnm:Cell Row="303" Col="2" ValueType="40">0.0051161231909778769</gnm:Cell>
+        <gnm:Cell Row="304" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="304" Col="1" ValueType="40">0.760417503336423</gnm:Cell>
+        <gnm:Cell Row="304" Col="2" ValueType="40">0.0060257824508867953</gnm:Cell>
+        <gnm:Cell Row="305" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="305" Col="1" ValueType="40">0.76276226643100065</gnm:Cell>
+        <gnm:Cell Row="305" Col="2" ValueType="40">0.0051161231909778769</gnm:Cell>
+        <gnm:Cell Row="306" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="306" Col="1" ValueType="40">0.7653372573610735</gnm:Cell>
+        <gnm:Cell Row="306" Col="2" ValueType="40">0.005196281274047504</gnm:Cell>
+        <gnm:Cell Row="307" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="307" Col="1" ValueType="40">0.76792131466497182</gnm:Cell>
+        <gnm:Cell Row="307" Col="2" ValueType="40">0.0051414502180786754</gnm:Cell>
+        <gnm:Cell Row="308" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="308" Col="1" ValueType="40">0.77054056554587125</gnm:Cell>
+        <gnm:Cell Row="308" Col="2" ValueType="40">0.0051414502180786754</gnm:Cell>
+        <gnm:Cell Row="309" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="309" Col="1" ValueType="40">0.77315694668535095</gnm:Cell>
+        <gnm:Cell Row="309" Col="2" ValueType="40">0.0053110112329995546</gnm:Cell>
+        <gnm:Cell Row="310" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="310" Col="1" ValueType="40">0.77577231999516871</gnm:Cell>
+        <gnm:Cell Row="310" Col="2" ValueType="40">0.0053110112329995546</gnm:Cell>
+        <gnm:Cell Row="311" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="311" Col="1" ValueType="40">0.77832454506647775</gnm:Cell>
+        <gnm:Cell Row="311" Col="2" ValueType="40">0.0054325825638120422</gnm:Cell>
+        <gnm:Cell Row="312" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="312" Col="1" ValueType="40">0.78087826169951891</gnm:Cell>
+        <gnm:Cell Row="312" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="313" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="313" Col="1" ValueType="40">0.78329800603250743</gnm:Cell>
+        <gnm:Cell Row="313" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="314" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="314" Col="1" ValueType="40">0.78565343193966442</gnm:Cell>
+        <gnm:Cell Row="314" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="315" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="315" Col="1" ValueType="40">0.7880460336172318</gnm:Cell>
+        <gnm:Cell Row="315" Col="2" ValueType="40">0.005349919590000903</gnm:Cell>
+        <gnm:Cell Row="316" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="316" Col="1" ValueType="40">0.79053294615013914</gnm:Cell>
+        <gnm:Cell Row="316" Col="2" ValueType="40">0.0053316425713446271</gnm:Cell>
+        <gnm:Cell Row="317" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="317" Col="1" ValueType="40">0.79315477897714737</gnm:Cell>
+        <gnm:Cell Row="317" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="318" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="318" Col="1" ValueType="40">0.79551525985918903</gnm:Cell>
+        <gnm:Cell Row="318" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="319" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="319" Col="1" ValueType="40">0.79796088275105059</gnm:Cell>
+        <gnm:Cell Row="319" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="320" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="320" Col="1" ValueType="40">0.80029938201710471</gnm:Cell>
+        <gnm:Cell Row="320" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="321" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="321" Col="1" ValueType="40">0.8027015648914908</gnm:Cell>
+        <gnm:Cell Row="321" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="322" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="322" Col="1" ValueType="40">0.80495595623760019</gnm:Cell>
+        <gnm:Cell Row="322" Col="2" ValueType="40">0.0055165475763409612</gnm:Cell>
+        <gnm:Cell Row="323" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="323" Col="1" ValueType="40">0.80715026578440019</gnm:Cell>
+        <gnm:Cell Row="323" Col="2" ValueType="40">0.0055165475763409612</gnm:Cell>
+        <gnm:Cell Row="324" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="324" Col="1" ValueType="40">0.80910513868377765</gnm:Cell>
+        <gnm:Cell Row="324" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="325" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="325" Col="1" ValueType="40">0.81103537213786614</gnm:Cell>
+        <gnm:Cell Row="325" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="326" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="326" Col="1" ValueType="40">0.81250452069570422</gnm:Cell>
+        <gnm:Cell Row="326" Col="2" ValueType="40">0.0054394596765937331</gnm:Cell>
+        <gnm:Cell Row="327" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="327" Col="1" ValueType="40">0.81404334971436543</gnm:Cell>
+        <gnm:Cell Row="327" Col="2" ValueType="40">0.0055165475763409612</gnm:Cell>
+        <gnm:Cell Row="328" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="328" Col="1" ValueType="40">0.81539001735544669</gnm:Cell>
+        <gnm:Cell Row="328" Col="2" ValueType="40">0.0055165475763409612</gnm:Cell>
+        <gnm:Cell Row="329" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="329" Col="1" ValueType="40">0.81687401281204486</gnm:Cell>
+        <gnm:Cell Row="329" Col="2" ValueType="40">0.0054889932517372484</gnm:Cell>
+        <gnm:Cell Row="330" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="330" Col="1" ValueType="40">0.81846729688227771</gnm:Cell>
+        <gnm:Cell Row="330" Col="2" ValueType="40">0.0054889932517372484</gnm:Cell>
+        <gnm:Cell Row="331" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="331" Col="1" ValueType="40">0.82003394023333365</gnm:Cell>
+        <gnm:Cell Row="331" Col="2" ValueType="40">0.0052277913907340691</gnm:Cell>
+        <gnm:Cell Row="332" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="332" Col="1" ValueType="40">0.82159070748258789</gnm:Cell>
+        <gnm:Cell Row="332" Col="2" ValueType="40">0.0048178459872004406</gnm:Cell>
+        <gnm:Cell Row="333" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="333" Col="1" ValueType="40">0.82306077206328809</gnm:Cell>
+        <gnm:Cell Row="333" Col="2" ValueType="40">0.0053599879396887236</gnm:Cell>
+        <gnm:Cell Row="334" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="334" Col="1" ValueType="40">0.82462818411302641</gnm:Cell>
+        <gnm:Cell Row="334" Col="2" ValueType="40">0.0053599879396887236</gnm:Cell>
+        <gnm:Cell Row="335" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="335" Col="1" ValueType="40">0.82616720267129595</gnm:Cell>
+        <gnm:Cell Row="335" Col="2" ValueType="40">0.0060808374940439216</gnm:Cell>
+        <gnm:Cell Row="336" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="336" Col="1" ValueType="40">0.82775186400702105</gnm:Cell>
+        <gnm:Cell Row="336" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="337" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="337" Col="1" ValueType="40">0.82935053895474442</gnm:Cell>
+        <gnm:Cell Row="337" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="338" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="338" Col="1" ValueType="40">0.83100303810253107</gnm:Cell>
+        <gnm:Cell Row="338" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="339" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="339" Col="1" ValueType="40">0.83255921294722235</gnm:Cell>
+        <gnm:Cell Row="339" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="340" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="340" Col="1" ValueType="40">0.83428134856521741</gnm:Cell>
+        <gnm:Cell Row="340" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="341" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="341" Col="1" ValueType="40">0.83599394879800448</gnm:Cell>
+        <gnm:Cell Row="341" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="342" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="342" Col="1" ValueType="40">0.83756244168411464</gnm:Cell>
+        <gnm:Cell Row="342" Col="2" ValueType="40">0.0060390787074905234</gnm:Cell>
+        <gnm:Cell Row="343" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="343" Col="1" ValueType="40">0.83913120046893841</gnm:Cell>
+        <gnm:Cell Row="343" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="344" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="344" Col="1" ValueType="40">0.84070926129865087</gnm:Cell>
+        <gnm:Cell Row="344" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="345" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="345" Col="1" ValueType="40">0.84241863681023865</gnm:Cell>
+        <gnm:Cell Row="345" Col="2" ValueType="40">0.006522781389003739</gnm:Cell>
+        <gnm:Cell Row="346" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="346" Col="1" ValueType="40">0.84411607538975508</gnm:Cell>
+        <gnm:Cell Row="346" Col="2" ValueType="40">0.0073733731439834856</gnm:Cell>
+        <gnm:Cell Row="347" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="347" Col="1" ValueType="40">0.84576925950264348</gnm:Cell>
+        <gnm:Cell Row="347" Col="2" ValueType="40">0.0072869228152178198</gnm:Cell>
+        <gnm:Cell Row="348" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="348" Col="1" ValueType="40">0.84737696491776993</gnm:Cell>
+        <gnm:Cell Row="348" Col="2" ValueType="40">0.0072869228152178198</gnm:Cell>
+        <gnm:Cell Row="349" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="349" Col="1" ValueType="40">0.84908448507831813</gnm:Cell>
+        <gnm:Cell Row="349" Col="2" ValueType="40">0.0072869228152178198</gnm:Cell>
+        <gnm:Cell Row="350" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="350" Col="1" ValueType="40">0.85069571146479706</gnm:Cell>
+        <gnm:Cell Row="350" Col="2" ValueType="40">0.0072869228152178198</gnm:Cell>
+        <gnm:Cell Row="351" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="351" Col="1" ValueType="40">0.85239179743389926</gnm:Cell>
+        <gnm:Cell Row="351" Col="2" ValueType="40">0.0072869228152178198</gnm:Cell>
+        <gnm:Cell Row="352" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="352" Col="1" ValueType="40">0.85413603849729203</gnm:Cell>
+        <gnm:Cell Row="352" Col="2" ValueType="40">0.0072869228152178198</gnm:Cell>
+        <gnm:Cell Row="353" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="353" Col="1" ValueType="40">0.85592529894936598</gnm:Cell>
+        <gnm:Cell Row="353" Col="2" ValueType="40">0.0062420582785460456</gnm:Cell>
+        <gnm:Cell Row="354" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="354" Col="1" ValueType="40">0.85763238176683743</gnm:Cell>
+        <gnm:Cell Row="354" Col="2" ValueType="40">0.0061610836532435646</gnm:Cell>
+        <gnm:Cell Row="355" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="355" Col="1" ValueType="40">0.85943485128682817</gnm:Cell>
+        <gnm:Cell Row="355" Col="2" ValueType="40">0.0060918488339926384</gnm:Cell>
+        <gnm:Cell Row="356" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="356" Col="1" ValueType="40">0.86115963244349736</gnm:Cell>
+        <gnm:Cell Row="356" Col="2" ValueType="40">0.0060918488339926384</gnm:Cell>
+        <gnm:Cell Row="357" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="357" Col="1" ValueType="40">0.86281101666747306</gnm:Cell>
+        <gnm:Cell Row="357" Col="2" ValueType="40">0.0060918488339926384</gnm:Cell>
+        <gnm:Cell Row="358" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="358" Col="1" ValueType="40">0.86443701022641473</gnm:Cell>
+        <gnm:Cell Row="358" Col="2" ValueType="40">0.0061610836532435646</gnm:Cell>
+        <gnm:Cell Row="359" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="359" Col="1" ValueType="40">0.8660511805369463</gnm:Cell>
+        <gnm:Cell Row="359" Col="2" ValueType="40">0.0061774066672494153</gnm:Cell>
+        <gnm:Cell Row="360" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="360" Col="1" ValueType="40">0.867488435981568</gnm:Cell>
+        <gnm:Cell Row="360" Col="2" ValueType="40">0.0061774066672494153</gnm:Cell>
+        <gnm:Cell Row="361" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="361" Col="1" ValueType="40">0.86884638225637101</gnm:Cell>
+        <gnm:Cell Row="361" Col="2" ValueType="40">0.0072655506910571255</gnm:Cell>
+        <gnm:Cell Row="362" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="362" Col="1" ValueType="40">0.87021527331128967</gnm:Cell>
+        <gnm:Cell Row="362" Col="2" ValueType="40">0.0076783054418978827</gnm:Cell>
+        <gnm:Cell Row="363" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="363" Col="1" ValueType="40">0.87163404458423455</gnm:Cell>
+        <gnm:Cell Row="363" Col="2" ValueType="40">0.0073157691802334963</gnm:Cell>
+        <gnm:Cell Row="364" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="364" Col="1" ValueType="40">0.8729842276669938</gnm:Cell>
+        <gnm:Cell Row="364" Col="2" ValueType="40">0.0082928550734269312</gnm:Cell>
+        <gnm:Cell Row="365" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="365" Col="1" ValueType="40">0.87430349000573937</gnm:Cell>
+        <gnm:Cell Row="365" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="366" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="366" Col="1" ValueType="40">0.87563054197228851</gnm:Cell>
+        <gnm:Cell Row="366" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="367" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="367" Col="1" ValueType="40">0.87692285782186841</gnm:Cell>
+        <gnm:Cell Row="367" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="368" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="368" Col="1" ValueType="40">0.87816068390498592</gnm:Cell>
+        <gnm:Cell Row="368" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="369" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="369" Col="1" ValueType="40">0.87917218705984657</gnm:Cell>
+        <gnm:Cell Row="369" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="370" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="370" Col="1" ValueType="40">0.88021426708709893</gnm:Cell>
+        <gnm:Cell Row="370" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="371" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="371" Col="1" ValueType="40">0.88113506546163067</gnm:Cell>
+        <gnm:Cell Row="371" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="372" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="372" Col="1" ValueType="40">0.88204788750144325</gnm:Cell>
+        <gnm:Cell Row="372" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="373" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="373" Col="1" ValueType="40">0.88298723241744137</gnm:Cell>
+        <gnm:Cell Row="373" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="374" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="374" Col="1" ValueType="40">0.88405655916998538</gnm:Cell>
+        <gnm:Cell Row="374" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="375" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="375" Col="1" ValueType="40">0.88519272792568182</gnm:Cell>
+        <gnm:Cell Row="375" Col="2" ValueType="40">0.0083128649763135921</gnm:Cell>
+        <gnm:Cell Row="376" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="376" Col="1" ValueType="40">0.88638338202688316</gnm:Cell>
+        <gnm:Cell Row="376" Col="2" ValueType="40">0.0077550746469499873</gnm:Cell>
+        <gnm:Cell Row="377" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="377" Col="1" ValueType="40">0.8878395314523525</gnm:Cell>
+        <gnm:Cell Row="377" Col="2" ValueType="40">0.0077550746469499873</gnm:Cell>
+        <gnm:Cell Row="378" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="378" Col="1" ValueType="40">0.88936253267394005</gnm:Cell>
+        <gnm:Cell Row="378" Col="2" ValueType="40">0.0073152339414189462</gnm:Cell>
+        <gnm:Cell Row="379" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="379" Col="1" ValueType="40">0.8908893497268352</gnm:Cell>
+        <gnm:Cell Row="379" Col="2" ValueType="40">0.007217170173105799</gnm:Cell>
+        <gnm:Cell Row="380" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="380" Col="1" ValueType="40">0.89243611109764343</gnm:Cell>
+        <gnm:Cell Row="380" Col="2" ValueType="40">0.0077550746469499873</gnm:Cell>
+        <gnm:Cell Row="381" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="381" Col="1" ValueType="40">0.89397175340273183</gnm:Cell>
+        <gnm:Cell Row="381" Col="2" ValueType="40">0.007217170173105799</gnm:Cell>
+        <gnm:Cell Row="382" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="382" Col="1" ValueType="40">0.89579425426895776</gnm:Cell>
+        <gnm:Cell Row="382" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="383" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="383" Col="1" ValueType="40">0.89756557538736703</gnm:Cell>
+        <gnm:Cell Row="383" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="384" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="384" Col="1" ValueType="40">0.89931861185247031</gnm:Cell>
+        <gnm:Cell Row="384" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="385" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="385" Col="1" ValueType="40">0.90118356687117041</gnm:Cell>
+        <gnm:Cell Row="385" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="386" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="386" Col="1" ValueType="40">0.90309965313213758</gnm:Cell>
+        <gnm:Cell Row="386" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="387" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="387" Col="1" ValueType="40">0.90509440837753252</gnm:Cell>
+        <gnm:Cell Row="387" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="388" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="388" Col="1" ValueType="40">0.90708647313098467</gnm:Cell>
+        <gnm:Cell Row="388" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="389" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="389" Col="1" ValueType="40">0.90908062694959269</gnm:Cell>
+        <gnm:Cell Row="389" Col="2" ValueType="40">0.0053019388022211619</gnm:Cell>
+        <gnm:Cell Row="390" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="390" Col="1" ValueType="40">0.9111024227286274</gnm:Cell>
+        <gnm:Cell Row="390" Col="2" ValueType="40">0.0053907207481767166</gnm:Cell>
+        <gnm:Cell Row="391" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="391" Col="1" ValueType="40">0.91313948606023043</gnm:Cell>
+        <gnm:Cell Row="391" Col="2" ValueType="40">0.0053907207481767166</gnm:Cell>
+        <gnm:Cell Row="392" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="392" Col="1" ValueType="40">0.91515799547456589</gnm:Cell>
+        <gnm:Cell Row="392" Col="2" ValueType="40">0.0060413435259574419</gnm:Cell>
+        <gnm:Cell Row="393" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="393" Col="1" ValueType="40">0.91711647932732721</gnm:Cell>
+        <gnm:Cell Row="393" Col="2" ValueType="40">0.0060413435259574419</gnm:Cell>
+        <gnm:Cell Row="394" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="394" Col="1" ValueType="40">0.91894867364914123</gnm:Cell>
+        <gnm:Cell Row="394" Col="2" ValueType="40">0.0060413435259574419</gnm:Cell>
+        <gnm:Cell Row="395" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="395" Col="1" ValueType="40">0.92060777754921086</gnm:Cell>
+        <gnm:Cell Row="395" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="396" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="396" Col="1" ValueType="40">0.92216116303415452</gnm:Cell>
+        <gnm:Cell Row="396" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="397" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="397" Col="1" ValueType="40">0.92340626735913323</gnm:Cell>
+        <gnm:Cell Row="397" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="398" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="398" Col="1" ValueType="40">0.92457175706059791</gnm:Cell>
+        <gnm:Cell Row="398" Col="2" ValueType="40">0.0088282663029976872</gnm:Cell>
+        <gnm:Cell Row="399" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="399" Col="1" ValueType="40">0.92578000139008609</gnm:Cell>
+        <gnm:Cell Row="399" Col="2" ValueType="40">0.0088282663029976872</gnm:Cell>
+        <gnm:Cell Row="400" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="400" Col="1" ValueType="40">0.92705126980695685</gnm:Cell>
+        <gnm:Cell Row="400" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="401" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="401" Col="1" ValueType="40">0.92832949019699351</gnm:Cell>
+        <gnm:Cell Row="401" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="402" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="402" Col="1" ValueType="40">0.92931473450356228</gnm:Cell>
+        <gnm:Cell Row="402" Col="2" ValueType="40">0.0088282663029976872</gnm:Cell>
+        <gnm:Cell Row="403" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="403" Col="1" ValueType="40">0.93031087196302864</gnm:Cell>
+        <gnm:Cell Row="403" Col="2" ValueType="40">0.0088282663029976872</gnm:Cell>
+        <gnm:Cell Row="404" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="404" Col="1" ValueType="40">0.93134633388304133</gnm:Cell>
+        <gnm:Cell Row="404" Col="2" ValueType="40">0.0068954630619714827</gnm:Cell>
+        <gnm:Cell Row="405" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="405" Col="1" ValueType="40">0.93215617155439912</gnm:Cell>
+        <gnm:Cell Row="405" Col="2" ValueType="40">0.0068954630619714827</gnm:Cell>
+        <gnm:Cell Row="406" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="406" Col="1" ValueType="40">0.93296596326703196</gnm:Cell>
+        <gnm:Cell Row="406" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="407" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="407" Col="1" ValueType="40">0.93372045153174987</gnm:Cell>
+        <gnm:Cell Row="407" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="408" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="408" Col="1" ValueType="40">0.93454478163546517</gnm:Cell>
+        <gnm:Cell Row="408" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="409" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="409" Col="1" ValueType="40">0.93535393704718994</gnm:Cell>
+        <gnm:Cell Row="409" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="410" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="410" Col="1" ValueType="40">0.93611579620257979</gnm:Cell>
+        <gnm:Cell Row="410" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="411" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="411" Col="1" ValueType="40">0.93688983828391204</gnm:Cell>
+        <gnm:Cell Row="411" Col="2" ValueType="40">0.0065121683610096168</gnm:Cell>
+        <gnm:Cell Row="412" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="412" Col="1" ValueType="40">0.93764492304910441</gnm:Cell>
+        <gnm:Cell Row="412" Col="2" ValueType="40">0.0064354773047328624</gnm:Cell>
+        <gnm:Cell Row="413" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="413" Col="1" ValueType="40">0.93844168472803524</gnm:Cell>
+        <gnm:Cell Row="413" Col="2" ValueType="40">0.0068954630619714827</gnm:Cell>
+        <gnm:Cell Row="414" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="414" Col="1" ValueType="40">0.9392162735508901</gnm:Cell>
+        <gnm:Cell Row="414" Col="2" ValueType="40">0.0068954630619714827</gnm:Cell>
+        <gnm:Cell Row="415" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="415" Col="1" ValueType="40">0.94002125562409211</gnm:Cell>
+        <gnm:Cell Row="415" Col="2" ValueType="40">0.0066904745771666982</gnm:Cell>
+        <gnm:Cell Row="416" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="416" Col="1" ValueType="40">0.9408160008459614</gnm:Cell>
+        <gnm:Cell Row="416" Col="2" ValueType="40">0.0081730088602859578</gnm:Cell>
+        <gnm:Cell Row="417" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="417" Col="1" ValueType="40">0.94164422310014795</gnm:Cell>
+        <gnm:Cell Row="417" Col="2" ValueType="40">0.0081730088602859578</gnm:Cell>
+        <gnm:Cell Row="418" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="418" Col="1" ValueType="40">0.94246844487865467</gnm:Cell>
+        <gnm:Cell Row="418" Col="2" ValueType="40">0.0066904745771666982</gnm:Cell>
+        <gnm:Cell Row="419" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="419" Col="1" ValueType="40">0.94332673501402908</gnm:Cell>
+        <gnm:Cell Row="419" Col="2" ValueType="40">0.0066904745771666982</gnm:Cell>
+        <gnm:Cell Row="420" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="420" Col="1" ValueType="40">0.94420019761086704</gnm:Cell>
+        <gnm:Cell Row="420" Col="2" ValueType="40">0.0081730088602859578</gnm:Cell>
+        <gnm:Cell Row="421" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="421" Col="1" ValueType="40">0.94507152051155341</gnm:Cell>
+        <gnm:Cell Row="421" Col="2" ValueType="40">0.0081730088602859578</gnm:Cell>
+        <gnm:Cell Row="422" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="422" Col="1" ValueType="40">0.94593563157599969</gnm:Cell>
+        <gnm:Cell Row="422" Col="2" ValueType="40">0.0065118538350662824</gnm:Cell>
+        <gnm:Cell Row="423" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="423" Col="1" ValueType="40">0.94685102260928267</gnm:Cell>
+        <gnm:Cell Row="423" Col="2" ValueType="40">0.0079070294288644417</gnm:Cell>
+        <gnm:Cell Row="424" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="424" Col="1" ValueType="40">0.947773146402486</gnm:Cell>
+        <gnm:Cell Row="424" Col="2" ValueType="40">0.007438421111147963</gnm:Cell>
+        <gnm:Cell Row="425" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="425" Col="1" ValueType="40">0.94872527112823324</gnm:Cell>
+        <gnm:Cell Row="425" Col="2" ValueType="40">0.007438421111147963</gnm:Cell>
+        <gnm:Cell Row="426" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="426" Col="1" ValueType="40">0.94968677154179237</gnm:Cell>
+        <gnm:Cell Row="426" Col="2" ValueType="40">0.0084818646189798504</gnm:Cell>
+        <gnm:Cell Row="427" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="427" Col="1" ValueType="40">0.95065387118789191</gnm:Cell>
+        <gnm:Cell Row="427" Col="2" ValueType="40">0.0084818646189798504</gnm:Cell>
+        <gnm:Cell Row="428" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="428" Col="1" ValueType="40">0.95155096123398408</gnm:Cell>
+        <gnm:Cell Row="428" Col="2" ValueType="40">0.008661985428028901</gnm:Cell>
+        <gnm:Cell Row="429" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="429" Col="1" ValueType="40">0.95249475870754297</gnm:Cell>
+        <gnm:Cell Row="429" Col="2" ValueType="40">0.008661985428028901</gnm:Cell>
+        <gnm:Cell Row="430" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="430" Col="1" ValueType="40">0.95340800940448445</gnm:Cell>
+        <gnm:Cell Row="430" Col="2" ValueType="40">0.008661985428028901</gnm:Cell>
+        <gnm:Cell Row="431" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="431" Col="1" ValueType="40">0.95431176141020357</gnm:Cell>
+        <gnm:Cell Row="431" Col="2" ValueType="40">0.0094380419131964814</gnm:Cell>
+        <gnm:Cell Row="432" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="432" Col="1" ValueType="40">0.95521094927153938</gnm:Cell>
+        <gnm:Cell Row="432" Col="2" ValueType="40">0.0094380419131964814</gnm:Cell>
+        <gnm:Cell Row="433" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="433" Col="1" ValueType="40">0.9561292653190856</gnm:Cell>
+        <gnm:Cell Row="433" Col="2" ValueType="40">0.008661985428028901</gnm:Cell>
+        <gnm:Cell Row="434" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="434" Col="1" ValueType="40">0.95725859008527581</gnm:Cell>
+        <gnm:Cell Row="434" Col="2" ValueType="40">0.008661985428028901</gnm:Cell>
+        <gnm:Cell Row="435" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="435" Col="1" ValueType="40">0.95837209139531687</gnm:Cell>
+        <gnm:Cell Row="435" Col="2" ValueType="40">0.008661985428028901</gnm:Cell>
+        <gnm:Cell Row="436" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="436" Col="1" ValueType="40">0.95950264309874478</gnm:Cell>
+        <gnm:Cell Row="436" Col="2" ValueType="40">0.0085733256175550623</gnm:Cell>
+        <gnm:Cell Row="437" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="437" Col="1" ValueType="40">0.96054927008287161</gnm:Cell>
+        <gnm:Cell Row="437" Col="2" ValueType="40">0.0085733256175550623</gnm:Cell>
+        <gnm:Cell Row="438" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="438" Col="1" ValueType="40">0.96159345548156927</gnm:Cell>
+        <gnm:Cell Row="438" Col="2" ValueType="40">0.0085733256175550623</gnm:Cell>
+        <gnm:Cell Row="439" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="439" Col="1" ValueType="40">0.9625541588974047</gnm:Cell>
+        <gnm:Cell Row="439" Col="2" ValueType="40">0.0086707408805936394</gnm:Cell>
+        <gnm:Cell Row="440" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="440" Col="1" ValueType="40">0.96342812890683138</gnm:Cell>
+        <gnm:Cell Row="440" Col="2" ValueType="40">0.0085081309766740672</gnm:Cell>
+        <gnm:Cell Row="441" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="441" Col="1" ValueType="40">0.96426125545273433</gnm:Cell>
+        <gnm:Cell Row="441" Col="2" ValueType="40">0.0085081309766740672</gnm:Cell>
+        <gnm:Cell Row="442" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="442" Col="1" ValueType="40">0.96509759848244092</gnm:Cell>
+        <gnm:Cell Row="442" Col="2" ValueType="40">0.0086707408805936394</gnm:Cell>
+        <gnm:Cell Row="443" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="443" Col="1" ValueType="40">0.96585032357088407</gnm:Cell>
+        <gnm:Cell Row="443" Col="2" ValueType="40">0.0086707408805936394</gnm:Cell>
+        <gnm:Cell Row="444" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="444" Col="1" ValueType="40">0.96660827543842398</gnm:Cell>
+        <gnm:Cell Row="444" Col="2" ValueType="40">0.0086707408805936394</gnm:Cell>
+        <gnm:Cell Row="445" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="445" Col="1" ValueType="40">0.96735842206356648</gnm:Cell>
+        <gnm:Cell Row="445" Col="2" ValueType="40">0.0082927207697981592</gnm:Cell>
+        <gnm:Cell Row="446" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="446" Col="1" ValueType="40">0.96809274279781599</gnm:Cell>
+        <gnm:Cell Row="446" Col="2" ValueType="40">0.0073204388516411876</gnm:Cell>
+        <gnm:Cell Row="447" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="447" Col="1" ValueType="40">0.96889590041799312</gnm:Cell>
+        <gnm:Cell Row="447" Col="2" ValueType="40">0.0073204388516411876</gnm:Cell>
+        <gnm:Cell Row="448" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="448" Col="1" ValueType="40">0.96972941987037975</gnm:Cell>
+        <gnm:Cell Row="448" Col="2" ValueType="40">0.0070843668633548589</gnm:Cell>
+        <gnm:Cell Row="449" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="449" Col="1" ValueType="40">0.97048228294821592</gnm:Cell>
+        <gnm:Cell Row="449" Col="2" ValueType="40">0.0070843668633548589</gnm:Cell>
+        <gnm:Cell Row="450" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="450" Col="1" ValueType="40">0.97127318936911211</gnm:Cell>
+        <gnm:Cell Row="450" Col="2" ValueType="40">0.0070843668633548589</gnm:Cell>
+        <gnm:Cell Row="451" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="451" Col="1" ValueType="40">0.97209441585076206</gnm:Cell>
+        <gnm:Cell Row="451" Col="2" ValueType="40">0.0070843668633548589</gnm:Cell>
+        <gnm:Cell Row="452" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="452" Col="1" ValueType="40">0.97293455447145072</gnm:Cell>
+        <gnm:Cell Row="452" Col="2" ValueType="40">0.0063793388459119377</gnm:Cell>
+        <gnm:Cell Row="453" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="453" Col="1" ValueType="40">0.97373256283392684</gnm:Cell>
+        <gnm:Cell Row="453" Col="2" ValueType="40">0.0064254395203312189</gnm:Cell>
+        <gnm:Cell Row="454" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="454" Col="1" ValueType="40">0.97440901010830294</gnm:Cell>
+        <gnm:Cell Row="454" Col="2" ValueType="40">0.0070843668633548589</gnm:Cell>
+        <gnm:Cell Row="455" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="455" Col="1" ValueType="40">0.97515730096009745</gnm:Cell>
+        <gnm:Cell Row="455" Col="2" ValueType="40">0.0075382312904334744</gnm:Cell>
+        <gnm:Cell Row="456" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="456" Col="1" ValueType="40">0.97592441520178819</gnm:Cell>
+        <gnm:Cell Row="456" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="457" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="457" Col="1" ValueType="40">0.97672262870532356</gnm:Cell>
+        <gnm:Cell Row="457" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="458" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="458" Col="1" ValueType="40">0.97757439801382551</gnm:Cell>
+        <gnm:Cell Row="458" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="459" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="459" Col="1" ValueType="40">0.97842523541629556</gnm:Cell>
+        <gnm:Cell Row="459" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="460" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="460" Col="1" ValueType="40">0.97929826555761856</gnm:Cell>
+        <gnm:Cell Row="460" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="461" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="461" Col="1" ValueType="40">0.98017418060959682</gnm:Cell>
+        <gnm:Cell Row="461" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="462" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="462" Col="1" ValueType="40">0.98108130353383971</gnm:Cell>
+        <gnm:Cell Row="462" Col="2" ValueType="40">0.0070310647085465965</gnm:Cell>
+        <gnm:Cell Row="463" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="463" Col="1" ValueType="40">0.98202348309956577</gnm:Cell>
+        <gnm:Cell Row="463" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="464" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="464" Col="1" ValueType="40">0.98297962901791114</gnm:Cell>
+        <gnm:Cell Row="464" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="465" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="465" Col="1" ValueType="40">0.98391645437806352</gnm:Cell>
+        <gnm:Cell Row="465" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="466" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="466" Col="1" ValueType="40">0.98486461870973674</gnm:Cell>
+        <gnm:Cell Row="466" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="467" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="467" Col="1" ValueType="40">0.98575772795655525</gnm:Cell>
+        <gnm:Cell Row="467" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="468" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="468" Col="1" ValueType="40">0.98675126169699501</gnm:Cell>
+        <gnm:Cell Row="468" Col="2" ValueType="40">0.0079532165114049279</gnm:Cell>
+        <gnm:Cell Row="469" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="469" Col="1" ValueType="40">0.98774115757841252</gnm:Cell>
+        <gnm:Cell Row="469" Col="2" ValueType="40">0.0079532165114049279</gnm:Cell>
+        <gnm:Cell Row="470" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="470" Col="1" ValueType="40">0.98870913343930966</gnm:Cell>
+        <gnm:Cell Row="470" Col="2" ValueType="40">0.0079532165114049279</gnm:Cell>
+        <gnm:Cell Row="471" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="471" Col="1" ValueType="40">0.98962851438926691</gnm:Cell>
+        <gnm:Cell Row="471" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="472" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="472" Col="1" ValueType="40">0.99053200079925985</gnm:Cell>
+        <gnm:Cell Row="472" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="473" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="473" Col="1" ValueType="40">0.99141190955064418</gnm:Cell>
+        <gnm:Cell Row="473" Col="2" ValueType="40">0.0077881533979199669</gnm:Cell>
+        <gnm:Cell Row="474" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="474" Col="1" ValueType="40">0.99220066211237157</gnm:Cell>
+        <gnm:Cell Row="474" Col="2" ValueType="40">0.0075197707148562014</gnm:Cell>
+        <gnm:Cell Row="475" Col="0" ValueType="40">75</gnm:Cell>
+        <gnm:Cell Row="475" Col="1" ValueType="40">0.99293936845046959</gnm:Cell>
+        <gnm:Cell Row="475" Col="2" ValueType="40">0.0070310647085465965</gnm:Cell>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="1" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>graph</gnm:Name>
+      <gnm:MaxCol>0</gnm:MaxCol>
+      <gnm:MaxRow>0</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>landscape</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48"/>
+      <gnm:Rows DefaultSizePts="12.75"/>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="0" endRow="0"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="A1:B2" ObjectOffset="0 0 0 0" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">371.99998269869593</property>
+            <property name="width-pts">647.9999826986959</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="position">0.02 0.25 1 1</property>
+              <property name="id">1</property>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="0" width="1.5" auto-color="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="1" type="GnmGODataScalar">1</dimension>
+                </data>
+                <GogObject role="Label">
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Indoor-outdoor beta-diversity (Bray-Curtis)&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="0" width="1.5" auto-color="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">2.5</dimension>
+                </data>
+                <GogObject role="Label">
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Infection fatality rate&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="circle" auto-outline="0" outline-color="33:33:33:42" auto-fill="0" fill-color="33:33:33:0" size="11"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">data!$C$1</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$B$2:$B$65536</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$C$2:$C$65536</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells/>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="1"/>
+</gnm:Workbook>

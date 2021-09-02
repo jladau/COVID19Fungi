@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="46" Full="1.12.46"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2021-05-19T23:28:12Z</dc:date>
+      <meta:creation-date>2021-05-13T20:54:20Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">data</gnm:SheetName>
+    <gnm:SheetName gnm:SheetType="object" gnm:Cols="256" gnm:Rows="65536">graph</gnm:SheetName>
+    <gnm:SheetName gnm:SheetType="object" gnm:Cols="256" gnm:Rows="65536">graph_1</gnm:SheetName>
+    <gnm:SheetName gnm:SheetType="object" gnm:Cols="256" gnm:Rows="65536">graph_2</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="1920" Height="844"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>data</gnm:Name>
+      <gnm:MaxCol>6</gnm:MaxCol>
+      <gnm:MaxRow>5</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;data&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48">
+        <gnm:ColInfo No="1" Unit="241.5" HardSize="1"/>
+        <gnm:ColInfo No="3" Unit="108.8"/>
+        <gnm:ColInfo No="4" Unit="117" Count="2"/>
+        <gnm:ColInfo No="6" Unit="108.8"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="12.75">
+        <gnm:RowInfo No="0" Unit="13.5" Count="6"/>
+      </gnm:Rows>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="6" endRow="5"/>
+      </gnm:Selections>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="60">X</gnm:Cell>
+        <gnm:Cell Row="0" Col="1" ValueType="60">TAXA</gnm:Cell>
+        <gnm:Cell Row="0" Col="2" ValueType="60">NUMBER_INDIVIDUAL_TAXA</gnm:Cell>
+        <gnm:Cell Row="0" Col="3" ValueType="60">OBSERVED</gnm:Cell>
+        <gnm:Cell Row="0" Col="4" ValueType="60">NULL_MEAN</gnm:Cell>
+        <gnm:Cell Row="0" Col="5" ValueType="60">NULL_LB</gnm:Cell>
+        <gnm:Cell Row="0" Col="6" ValueType="60">NULL_UB</gnm:Cell>
+        <gnm:Cell Row="1" Col="0" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="60">Eur511;Wal1582;Asp109</gnm:Cell>
+        <gnm:Cell Row="1" Col="2" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="1" Col="3" ValueType="40">0.033111097252314536</gnm:Cell>
+        <gnm:Cell Row="1" Col="4" ValueType="40">-0.015601833533249105</gnm:Cell>
+        <gnm:Cell Row="1" Col="5" ValueType="40">-0.060031607402325</gnm:Cell>
+        <gnm:Cell Row="1" Col="6" ValueType="40">0.0288279403358268</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="60">Eur511;Wal1582;Asp109 + uni1835;Alt29 + Epi494</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="40">3</gnm:Cell>
+        <gnm:Cell Row="2" Col="3" ValueType="40">0.43476066603951424</gnm:Cell>
+        <gnm:Cell Row="2" Col="4" ValueType="40">-0.024929097762679705</gnm:Cell>
+        <gnm:Cell Row="2" Col="5" ValueType="40">-0.076152916618061506</gnm:Cell>
+        <gnm:Cell Row="2" Col="6" ValueType="40">0.0262947210927021</gnm:Cell>
+        <gnm:Cell Row="4" Col="0" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="60">none</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="4" Col="3" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="4" Col="4" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="4" Col="5" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="4" Col="6" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="5" Col="0" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="60">uni1835;Alt29 + Epi494</gnm:Cell>
+        <gnm:Cell Row="5" Col="2" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="5" Col="3" ValueType="40">0.17883395957736159</gnm:Cell>
+        <gnm:Cell Row="5" Col="4" ValueType="40">-0.025359330583404605</gnm:Cell>
+        <gnm:Cell Row="5" Col="5" ValueType="40">-0.078995634286173802</gnm:Cell>
+        <gnm:Cell Row="5" Col="6" ValueType="40">0.028276973119364598</gnm:Cell>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="1" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>graph</gnm:Name>
+      <gnm:MaxCol>0</gnm:MaxCol>
+      <gnm:MaxRow>0</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>landscape</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48"/>
+      <gnm:Rows DefaultSizePts="12.75"/>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="0" endRow="0"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="A1:B2" ObjectOffset="0 0 0 0" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">371.99998269869593</property>
+            <property name="width-pts">647.9999826986959</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="is-plot-area-manual">TRUE</property>
+              <property name="plot-area">0.25 0.080000000000000002 0.58999999999999997 0.82000000000000006</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="id">1</property>
+              <GogObject role="Title">
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 20" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.23999999999999999 0.93000000000000005 1 1</property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">&quot;YYYY excluded&quot;</dimension>
+                </data>
+              </GogObject>
+              <GogObject role="Title">
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 20" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.65000000000000002 0.93000000000000005 1 1</property>
+                <property name="id">2</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">&quot;YYYY included&quot;</dimension>
+                </data>
+              </GogObject>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="major-tick-labeled">FALSE</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">0.94999999999999996</dimension>
+                  <dimension id="1" type="GnmGODataScalar">2.0499999999999998</dimension>
+                  <dimension id="2" type="GnmGODataScalar">1</dimension>
+                </data>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 18" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+                <GogObject role="Label">
+                  <property name="allow-markup">TRUE</property>
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Effect (cross validation R&lt;sup&gt;2&lt;/sup&gt;)&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="solid" auto-width="0" width="3" auto-color="0" color="96:96:96:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="square" auto-outline="0" outline-color="96:96:96:FF" auto-fill="0" fill-color="96:96:96:80" size="16"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;XXXX included&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$E$2:$E$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">3</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="dot" auto-width="0" width="3" auto-color="0" color="96:96:96:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="triangle-up" auto-outline="0" outline-color="96:96:96:FF" auto-fill="0" fill-color="96:96:96:80" size="18"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;XXXX excluded&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$E$5:$E$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">2</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="solid" auto-width="0" width="3.5" auto-color="0" color="33:33:33:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="square" auto-outline="0" outline-color="33:33:33:FF" auto-fill="0" fill-color="33:33:33:FF" size="16"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;XXXX included&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$D$2:$D$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">4</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="dot" auto-width="0" width="3.5" auto-color="0" color="33:33:33:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="triangle-up" auto-outline="0" outline-color="33:33:33:FF" auto-fill="0" fill-color="33:33:33:FF" size="18"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;XXXX excluded&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$D$5:$D$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogAreaPlot">
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">2</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$F$5:$F$6</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$G$5:$G$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogAreaPlot">
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$F$2:$F$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$G$2:$G$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Legend">
+                <property name="swatch-padding-pts">5.669291338582677</property>
+                <property name="swatch-size-pts">7.086614173228346</property>
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                    <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                  </fill>
+                  <font auto-color="1" auto-font="0" font="Sans 12" auto-scale="1"/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.28999999999999998 0.070000000000000007 1 1</property>
+                <property name="id">1</property>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells/>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="1" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>graph_1</gnm:Name>
+      <gnm:MaxCol>0</gnm:MaxCol>
+      <gnm:MaxRow>0</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>landscape</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48"/>
+      <gnm:Rows DefaultSizePts="12.75"/>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="0" endRow="0"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="A1:B2" ObjectOffset="0 0 0 0" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">371.99998269869593</property>
+            <property name="width-pts">647.9999826986959</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="is-plot-area-manual">TRUE</property>
+              <property name="plot-area">0.25 0.080000000000000002 0.54000000000000004 0.72999999999999998</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="id">1</property>
+              <GogObject role="Title">
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 14" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.23999999999999999 0.83999999999999997 1 1</property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">&quot;Excluded&quot;</dimension>
+                </data>
+              </GogObject>
+              <GogObject role="Title">
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 14" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.69999999999999996 0.83999999999999997 1 1</property>
+                <property name="id">2</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">&quot;Included&quot;</dimension>
+                </data>
+              </GogObject>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="major-tick-labeled">FALSE</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">0.94999999999999996</dimension>
+                  <dimension id="1" type="GnmGODataScalar">2.0499999999999998</dimension>
+                  <dimension id="2" type="GnmGODataScalar">1</dimension>
+                </data>
+                <GogObject role="Label">
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 18" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="is-position-manual">TRUE</property>
+                  <property name="position">0.48999999999999999 1.04 1 1</property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Other taxa&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 14" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+                <GogObject role="Label">
+                  <property name="allow-markup">TRUE</property>
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 18" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Cross validation R&lt;sup&gt;2&lt;/sup&gt;&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">3</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="dot" auto-width="0" width="3" auto-color="0" color="C0:C0:C0:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="triangle-up" auto-outline="0" outline-color="96:96:96:FF" auto-fill="0" fill-color="96:96:96:80" size="17"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;Excluded&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$E$5:$E$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="solid" auto-width="0" width="3" auto-color="0" color="C0:C0:C0:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="square" auto-outline="0" outline-color="96:96:96:FF" auto-fill="0" fill-color="96:96:96:80" size="15"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;Inlcuded&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$E$2:$E$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">4</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="dot" auto-width="0" width="3" auto-color="0" color="33:33:33:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="triangle-up" auto-outline="0" outline-color="33:33:33:FF" auto-fill="0" fill-color="33:33:33:D9" size="17"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;Excluded&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$D$5:$D$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">2</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="solid" auto-width="0" width="3" auto-color="0" color="33:33:33:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="square" auto-outline="0" outline-color="33:33:33:FF" auto-fill="0" fill-color="33:33:33:D9" size="15"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;Included&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$D$2:$D$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Legend">
+                <property name="swatch-padding-pts">5.669291338582677</property>
+                <property name="swatch-size-pts">7.086614173228346</property>
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                    <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                  </fill>
+                  <font auto-color="1" auto-font="0" font="Sans 11" auto-scale="1"/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.28999999999999998 0.070000000000000007 1 1</property>
+                <property name="id">1</property>
+                <GogObject role="Title">
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 12" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Taxon cluster&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells/>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="1" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>graph_2</gnm:Name>
+      <gnm:MaxCol>0</gnm:MaxCol>
+      <gnm:MaxRow>0</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>landscape</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>na_letter</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48"/>
+      <gnm:Rows DefaultSizePts="12.75"/>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="0" endRow="0"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="A1:B2" ObjectOffset="0 0 0 0" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">371.99998269869593</property>
+            <property name="width-pts">647.9999826986959</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="is-plot-area-manual">TRUE</property>
+              <property name="plot-area">0.25 0.080000000000000002 0.58999999999999997 0.82000000000000006</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="id">1</property>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="major-tick-labeled">FALSE</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">0.94999999999999996</dimension>
+                  <dimension id="1" type="GnmGODataScalar">2.0499999999999998</dimension>
+                  <dimension id="2" type="GnmGODataScalar">1</dimension>
+                </data>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="0" font="Sans 18" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+                <GogObject role="Label">
+                  <property name="allow-markup">TRUE</property>
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="1" auto-font="0" font="Sans 22" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Effect (cross validation R&lt;sup&gt;2&lt;/sup&gt;&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">4</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="dot" auto-width="0" width="3" auto-color="0" color="33:33:33:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="triangle-up" auto-outline="0" outline-color="33:33:33:FF" auto-fill="0" fill-color="33:33:33:FF" size="18"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;None&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$D$5:$D$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogXYPlot">
+                <property name="default-style-has-fill">FALSE</property>
+                <property name="default-style-has-lines">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">2</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="solid" auto-width="0" width="3" auto-color="0" color="33:33:33:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <marker auto-shape="0" shape="square" auto-outline="0" outline-color="33:33:33:FF" auto-fill="0" fill-color="33:33:33:FF" size="16"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;Taxa group&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$D$2:$D$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogAreaPlot">
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">2</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$F$5:$F$6</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$5:$A$6</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$G$5:$G$6</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogAreaPlot">
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$F$2:$F$3</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="has-legend">FALSE</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="0" dash="none" auto-width="1" auto-color="1"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="1">
+                      <pattern type="solid" fore="0:0:0:FF" back="96:96:96:40" auto-pattern="1"/>
+                    </fill>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataVector">data!$A$2:$A$3</dimension>
+                    <dimension id="1" type="GnmGODataVector">data!$G$2:$G$3</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Legend">
+                <property name="swatch-padding-pts">5.669291338582677</property>
+                <property name="swatch-size-pts">7.086614173228346</property>
+                <property name="padding-pts">7.086614173228346</property>
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                    <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                  </fill>
+                  <font auto-color="1" auto-font="0" font="Sans 12" auto-scale="1"/>
+                </property>
+                <property name="is-position-manual">TRUE</property>
+                <property name="position">0.28999999999999998 0.070000000000000007 1 1</property>
+                <property name="id">1</property>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells/>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="1"/>
+</gnm:Workbook>

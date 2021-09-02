@@ -1,0 +1,6 @@
+Feature Group	Relative Importance
+Covid Policy Features	0.0032484675223200224
+Housing Features	0.13644944132475925
+Demographic Features	0.1574961003950135
+Climate Except Soil pH Features	0.2879453483253237
+Soil pH Features	0.4148606424325834
